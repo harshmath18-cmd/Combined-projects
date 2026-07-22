@@ -1,0 +1,630 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#07111f;
+
+    color:white;
+
+}
+
+/* HERO */
+
+.hero{
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+    padding:40px;
+
+    background:linear-gradient(135deg,#081426,#102b55);
+
+}
+
+.hero-content{
+
+    max-width:900px;
+
+}
+
+.tag{
+
+    display:inline-block;
+
+    padding:10px 20px;
+
+    background:#1f3c70;
+
+    border-radius:50px;
+
+    font-size:15px;
+
+    margin-bottom:25px;
+
+}
+
+.hero h1{
+
+    font-size:64px;
+
+    margin-bottom:20px;
+
+    line-height:1.1;
+
+}
+
+.hero h2{
+
+    color:#5fa8ff;
+
+    font-size:28px;
+
+    margin-bottom:30px;
+
+    font-weight:400;
+
+}
+
+.description{
+
+    font-size:22px;
+
+    line-height:1.7;
+
+    color:#d8d8d8;
+
+    margin-bottom:45px;
+
+}
+
+.buttons{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+}
+
+.btn{
+
+    text-decoration:none;
+
+    color:white;
+
+    padding:18px 36px;
+
+    border-radius:12px;
+
+    transition:.3s;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+}
+
+.primary{
+
+    background:#2563eb;
+
+}
+
+.primary:hover{
+
+    background:#1d4ed8;
+
+}
+
+.secondary{
+
+    border:2px solid white;
+
+}
+
+.secondary:hover{
+
+    background:white;
+
+    color:black;
+
+}
+
+/* ================= ABOUT SECTION ================= */
+
+.about{
+
+    padding:100px 8%;
+
+    background:#0b1525;
+
+}
+
+.section-title{
+
+    text-align:center;
+
+    margin-bottom:60px;
+
+}
+
+.section-title p{
+
+    color:#60a5fa;
+
+    font-weight:bold;
+
+    letter-spacing:2px;
+
+    margin-bottom:15px;
+
+}
+
+.section-title h2{
+
+    font-size:42px;
+
+}
+
+.about-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+    gap:30px;
+
+}
+
+.about-card{
+
+    background:#132238;
+
+    padding:35px;
+
+    border-radius:20px;
+
+    transition:.3s;
+
+    border:1px solid rgba(255,255,255,.08);
+
+}
+
+.about-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 20px 40px rgba(0,0,0,.35);
+
+}
+
+.icon{
+
+    font-size:48px;
+
+    margin-bottom:20px;
+
+}
+
+.about-card h3{
+
+    margin-bottom:15px;
+
+    color:#60a5fa;
+
+}
+
+.about-card p{
+
+    color:#d6d6d6;
+
+    line-height:1.8;
+
+}
+
+
+
+/* ================= VIDEO SECTION ================= */
+
+.video-section{
+
+    padding:100px 8%;
+
+    background:#07111f;
+
+}
+
+.video-container{
+
+    display:grid;
+
+    grid-template-columns:1.4fr 1fr;
+
+    gap:50px;
+
+    align-items:center;
+
+}
+
+.video-box{
+
+    background:#132238;
+
+    border-radius:20px;
+
+    padding:20px;
+
+    box-shadow:0 20px 45px rgba(0,0,0,.35);
+
+}
+
+.video-box video{
+
+    width:100%;
+
+    border-radius:15px;
+
+}
+
+.video-info h3{
+
+    font-size:34px;
+
+    margin-bottom:20px;
+
+    color:#60a5fa;
+
+}
+
+.video-info p{
+
+    line-height:1.8;
+
+    color:#d7d7d7;
+
+    margin-bottom:25px;
+
+}
+
+.video-info ul{
+
+    list-style:none;
+
+}
+
+.video-info li{
+
+    margin-bottom:15px;
+
+    font-size:18px;
+
+}
+
+.mission-card{
+
+    margin-top:35px;
+
+    background:#132238;
+
+    padding:25px;
+
+    border-radius:18px;
+
+    border-left:5px solid #3b82f6;
+
+}
+
+.mission-card h4{
+
+    margin-bottom:12px;
+
+    font-size:22px;
+
+}
+
+@media(max-width:900px){
+
+.video-container{
+
+grid-template-columns:1fr;
+
+}
+
+}
+
+
+/* ================= TRAINING RESULTS ================= */
+
+.stats-section{
+
+    padding:100px 8%;
+
+    background:#0b1525;
+
+}
+
+.stats-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+    gap:30px;
+
+}
+
+.stat-card{
+
+    background:rgba(255,255,255,.05);
+
+    border:1px solid rgba(255,255,255,.08);
+
+    backdrop-filter:blur(12px);
+
+    border-radius:22px;
+
+    padding:35px;
+
+    text-align:center;
+
+    transition:.35s;
+
+}
+
+.stat-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 20px 40px rgba(0,0,0,.35);
+
+}
+
+.stat-icon{
+
+    font-size:50px;
+
+    margin-bottom:20px;
+
+}
+
+.stat-card h3{
+
+    color:#60a5fa;
+
+    margin-bottom:18px;
+
+    font-size:22px;
+
+}
+
+.stat-card span{
+
+    font-size:28px;
+
+    font-weight:bold;
+
+}
+
+.success{
+
+    border:2px solid #22c55e;
+
+}
+
+.success span{
+
+    color:#22c55e;
+
+}
+
+
+/* ================= MISSION SUCCESS ================= */
+
+.mission-success{
+
+    padding:110px 8%;
+
+    background:linear-gradient(135deg,#06101d,#0f1f36);
+
+}
+
+.success-container{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    display:grid;
+
+    grid-template-columns:2fr 1fr;
+
+    gap:50px;
+
+    align-items:center;
+
+    background:rgba(255,255,255,.05);
+
+    border:1px solid rgba(255,255,255,.08);
+
+    border-radius:28px;
+
+    padding:60px;
+
+}
+
+.badge{
+
+    display:inline-block;
+
+    background:#22c55e;
+
+    color:white;
+
+    padding:10px 22px;
+
+    border-radius:50px;
+
+    font-weight:bold;
+
+    margin-bottom:25px;
+
+}
+
+.success-left h2{
+
+    font-size:46px;
+
+    margin-bottom:25px;
+
+}
+
+.success-left p{
+
+    color:#d7d7d7;
+
+    line-height:1.9;
+
+    margin-bottom:20px;
+
+    font-size:18px;
+
+}
+
+.success-right{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:25px;
+
+}
+
+.metric{
+
+    background:#132238;
+
+    border-radius:18px;
+
+    padding:28px;
+
+    text-align:center;
+
+    transition:.3s;
+
+}
+
+.metric:hover{
+
+    transform:translateY(-6px);
+
+}
+
+.metric h3{
+
+    color:#60a5fa;
+
+    margin-bottom:15px;
+
+}
+
+.metric span{
+
+    font-size:34px;
+
+    font-weight:bold;
+
+    color:#22c55e;
+
+}
+
+@media(max-width:900px){
+
+.success-container{
+
+grid-template-columns:1fr;
+
+padding:40px;
+
+}
+
+.success-left h2{
+
+font-size:34px;
+
+}
+
+}
+
+
+/* ================= TRAINING GRAPH ================= */
+
+.graph-section{
+
+    padding:100px 8%;
+
+    background:#07111f;
+
+}
+
+.graph-container{
+
+    max-width:1000px;
+
+    margin:auto;
+
+    background:#132238;
+
+    border-radius:20px;
+
+    padding:30px;
+
+    box-shadow:0 20px 45px rgba(0,0,0,.35);
+
+}
+
+.graph-container img{
+
+    width:100%;
+
+    border-radius:15px;
+
+    display:block;
+
+}
+
+.graph-description{
+
+    max-width:900px;
+
+    margin:35px auto 0;
+
+    text-align:center;
+
+    color:#d7d7d7;
+
+    line-height:1.8;
+
+    font-size:18px;
+
+}

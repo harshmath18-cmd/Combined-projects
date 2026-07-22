@@ -1,0 +1,82 @@
+<section id="search" class="hero">
+
+    <div class="hero-bg"></div>
+
+    <div class="circle one"></div>
+
+    <div class="circle two"></div>
+
+    <div class="circle three"></div>
+
+    <div class="container hero-container">
+
+        <div class="hero-content">
+
+            <p class="hero-tag">
+
+                🍽 AI Powered Restaurant Discovery
+
+            </p>
+
+            <h1>
+
+                Discover India's
+
+                <span>Best Restaurants</span>
+
+                with Artificial Intelligence
+
+            </h1>
+
+            <p class="hero-description">
+
+                Explore thousands of restaurants across India.
+                Find the perfect place based on cuisine,
+                ratings, budget and your preferences.
+
+            </p>
+
+            <!-- AI Search Form -->
+            <form
+    class="hero-search"
+    id="hero-search"
+    action="{{ url_for('recommend_page') }}"
+    method="POST">
+
+                <input
+                    type="text"
+                    name="query"
+                    placeholder="Search City, Restaurant or Cuisine..."
+                    required>
+
+                <button type="submit">
+
+                    <i class="fa-solid fa-magnifying-glass"></i>
+
+                    Search
+
+                </button>
+
+            </form>
+
+            <div class="hero-buttons">
+
+                <a href="#cities" class="primary-btn">
+
+    Explore Cities
+
+</a>
+
+                <a href="#about" class="secondary-btn">
+
+    Learn More
+
+</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>

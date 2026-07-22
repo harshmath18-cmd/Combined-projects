@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link
+rel="stylesheet"
+href="https://unpkg.com/aos@2.3.4/dist/aos.css">
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>DineAI Recommendations</title>
+
+    <!-- Google Fonts -->
+
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600&display=swap"
+          rel="stylesheet">
+
+    <!-- Font Awesome -->
+
+    <link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+<link rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}">
+
+<link rel="stylesheet"
+      href="{{ url_for('static', filename='css/recommend.css') }}">
+
+</head>
+
+<body>
+
+    {% include 'components/navbar.html' %}
+
+    <section class="recommend-search-section">
+
+    <div class="search-wrapper">
+
+        <form action="/recommend" method="POST" class="search-box">
+
+            <input
+                type="text"
+                name="query"
+                placeholder="Search another restaurant, city or cuisine..."
+                required>
+
+            <button type="submit">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                
+            </button>
+
+        </form>
+
+    </div>
+
+</section>
+
+    
+
+    <section class="results-section">
+
+        {% if restaurants %}
+
+        <div class="results-header">
+
+            <h2>
+
+                Showing {{ restaurants|length }} Results
+
+            </h2>
+
+        </div>
+
+        <div class="recommend-grid">
+
+            {% for restaurant in restaurants %}
+
+            <div class="recommend-card">
+
+                <img
+    src="{{ url_for('static', filename=restaurant.Image) }}"
+    alt="{{ restaurant.Restaurant_Name }}">
+                <div class="recommend-content">
+
+                    <h3>{{ restaurant.Restaurant_Name }}</h3>
+
+                    <div class="rating">
+
+                        ⭐ {{ restaurant.Rating }}
+
+                    </div>
+
+                    <p>
+
+                        <i class="fa-solid fa-location-dot"></i>
+
+                        {{ restaurant.Area }},
+
+                        {{ restaurant.City }}
+
+                    </p>
+
+                    <p>
+
+                        🍽 {{ restaurant.Cuisine }}
+
+                    </p>
+
+                    <p>
+
+                        💰 {{ restaurant.Average_Price }}
+
+                    </p>
+
+                    <p>
+
+                        {% if restaurant.Pure_Veg == "Yes" %}
+🟢 Pure Veg
+{% else %}
+🍗 Serves Veg & Non-Veg
+{% endif %}
+
+                    </p>
+
+                    <a
+href="https://www.google.com/maps/search/{{ restaurant.Restaurant_Name }} {{ restaurant.City }}"
+target="_blank"
+class="view-btn">
+
+    <i class="fa-solid fa-location-dot"></i>
+
+    Directions
+
+</a>
+
+</div>
+
+</div>
+
+            {% endfor %}
+
+        </div>
+
+        {% else %}
+
+        <div class="empty">
+
+            <h2>No Restaurants Found</h2>
+
+            <p>
+
+                Try searching another cuisine or city.
+
+            </p>
+
+        </div>
+
+                {% endif %}
+
+    </section>
+
+    {% include 'components/footer.html' %}
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+    <script src="{{ url_for('static', filename='js/navbar.js') }}"></script>
+
+    <script src="{{ url_for('static', filename='js/animation.js') }}"></script>
+
+</body>
+
+</html>

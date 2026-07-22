@@ -1,0 +1,131 @@
+/* ==========================
+      Cities Section
+========================== */
+
+.section-header{
+
+text-align:center;
+
+max-width:700px;
+
+margin:0 auto 70px;
+
+}
+
+.section-tag{
+
+display:inline-block;
+
+padding:10px 20px;
+
+background:var(--glass);
+
+border:1px solid var(--glass-border);
+
+border-radius:999px;
+
+margin-bottom:20px;
+
+color:var(--gold);
+
+font-weight:600;
+
+}
+
+.section-header h2{
+
+font-size:56px;
+
+margin-bottom:20px;
+
+}
+
+.section-description{
+
+color:var(--grey);
+
+font-size:18px;
+
+line-height:1.8;
+
+}
+
+.cities-grid{
+
+display:grid;
+
+grid-template-columns:repeat(3,1fr);
+
+gap:30px;
+
+}
+
+.city-card{
+
+position:relative;
+
+height:420px;
+
+overflow:hidden;
+
+border-radius:24px;
+
+cursor:pointer;
+
+box-shadow:var(--shadow);
+
+}
+
+.city-card img{
+
+width:100%;
+
+height:100%;
+
+object-fit:cover;
+
+transition:transform .6s ease;
+
+}
+
+.city-card:hover img{
+
+transform:scale(1.08);
+
+}
+
+.city-overlay{
+
+position:absolute;
+
+left:20px;
+
+right:20px;
+
+bottom:20px;
+
+padding:22px;
+
+background:rgba(0,0,0,.45);
+
+backdrop-filter:blur(12px);
+
+border:1px solid rgba(255,255,255,.15);
+
+border-radius:18px;
+
+}
+
+.city-overlay h3{
+
+font-size:28px;
+
+margin-bottom:8px;
+
+}
+
+.city-overlay p{
+
+color:#e5e5e5;
+
+}

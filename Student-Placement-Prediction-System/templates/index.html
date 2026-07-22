@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Student Placement Prediction</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+    <div class="circle one"></div>
+    <div class="circle two"></div>
+    <div class="circle three"></div>
+
+    <!-- ================= NAVBAR ================= -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-transparent py-3">
+
+        <div class="container">
+
+            <a class="navbar-brand fw-bold fs-3" href="#">
+                🎓 PlacementAI
+            </a>
+
+            <button class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbar">
+
+                <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+
+                <ul class="navbar-nav ms-auto">
+
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">
+                            Home
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#predict">
+                            Predict
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">
+                            About
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+    </nav>
+
+    <!-- ================= HERO ================= -->
+
+    <section class="hero py-5">
+
+        <div class="container">
+
+            <div class="row align-items-center">
+
+                <div class="col-lg-6">
+
+                    <h1 class="display-4 fw-bold">
+
+                        Predict Your Campus Placement
+
+                    </h1>
+
+                    <p class="lead mt-4">
+
+                        AI-powered Student Placement Prediction System built using Machine Learning and Support Vector
+                        Machine.
+
+                    </p>
+
+                    <div class="mt-4">
+
+                        <a href="#predict" class="btn btn-primary btn-lg me-3">
+
+                            Predict Now
+
+                        </a>
+
+                        <a href="#about" class="btn btn-outline-light btn-lg">
+
+                            Learn More
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6 text-center">
+
+                    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"
+                        class="img-fluid"
+                        style="max-width:420px;">
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+<!-- ================= STATISTICS ================= -->
+
+<section class="stats py-5">
+
+    <div class="container">
+
+        <div class="row g-4">
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-people-fill"></i>
+
+                    <h2 class="counter" data-target="215">0</h2>
+
+                    <p>Students Analyzed</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-bar-chart-fill"></i>
+
+                    <h2 class="counter" data-target="88">0</h2>
+
+                    <p>Prediction Accuracy</p>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-cpu-fill"></i>
+
+                    <h2>AI Powered</h2>
+
+                    <p>Machine Learning Model</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+    <!-- ================= PREDICTION FORM ================= -->
+
+
+    <section id="predict" class="py-5">
+
+        <div class="container">
+
+            <div class="card p-4 shadow-lg">
+
+                <h2 class="text-center mb-3">
+                    Student Placement Prediction
+                </h2>
+
+                <p class="text-center">
+                    Enter Student Details
+                </p>
+
+                <form action="/predict" method="POST">
+
+                    <label>Gender</label>
+                    <select name="gender" class="form-select">
+                        <option value="1">Male</option>
+                        <option value="0">Female</option>
+                    </select>
+
+                    <label class="mt-3">SSC Percentage</label>
+                    <input type="number" step="0.01" class="form-control" name="ssc_p" required>
+
+                    <label class="mt-3">SSC Board</label>
+                    <select name="ssc_b" class="form-select">
+                        <option value="0">Central</option>
+                        <option value="1">Others</option>
+                    </select>
+
+                    <label class="mt-3">HSC Percentage</label>
+                    <input type="number" step="0.01" class="form-control" name="hsc_p" required>
+
+                    <label class="mt-3">HSC Board</label>
+                    <select name="hsc_b" class="form-select">
+                        <option value="0">Central</option>
+                        <option value="1">Others</option>
+                    </select>
+
+                    <label class="mt-3">HSC Stream</label>
+                    <select name="hsc_s" class="form-select">
+                        <option value="0">Arts</option>
+                        <option value="1">Commerce</option>
+                        <option value="2">Science</option>
+                    </select>
+
+                    <label class="mt-3">Degree Percentage</label>
+                    <input type="number" step="0.01" class="form-control" name="degree_p" required>
+
+                    <label class="mt-3">Degree Type</label>
+                    <select name="degree_t" class="form-select">
+                        <option value="0">Comm & Mgmt</option>
+                        <option value="1">Others</option>
+                        <option value="2">Sci & Tech</option>
+                    </select>
+
+                    <label class="mt-3">Work Experience</label>
+                    <select name="workex" class="form-select">
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+
+                    <label class="mt-3">E-Test Percentage</label>
+                    <input type="number" step="0.01" class="form-control" name="etest_p" required>
+
+                    <label class="mt-3">Specialisation</label>
+                    <select name="specialisation" class="form-select">
+                        <option value="0">Mkt & Fin</option>
+                        <option value="1">Mkt & HR</option>
+                    </select>
+
+                    <label class="mt-3">MBA Percentage</label>
+                    <input type="number" step="0.01" class="form-control" name="mba_p" required>
+
+                    <button id="predictBtn" class="btn btn-primary w-100 mt-4" type="submit">
+
+    <span id="btnText">
+
+        <i class="bi bi-graph-up-arrow"></i>
+
+        Predict Placement
+
+    </span>
+
+    <span id="loading" style="display:none;">
+
+        <span class="spinner-border spinner-border-sm me-2"></span>
+
+        Predicting...
+
+    </span>
+
+</button>
+
+                </form>
+
+               {% if prediction %}
+
+<div class="result-card mt-5">
+
+    <h2>
+
+        {% if color=="success" %}
+
+        ✅ Prediction Result
+
+        {% else %}
+
+        ❌ Prediction Result
+
+        {% endif %}
+
+    </h2>
+
+    <h1 class="mt-3">
+
+        {{ prediction }}
+
+    </h1>
+
+    {% if confidence %}
+
+    <h4 class="mt-3">
+
+        Confidence : {{ confidence }} %
+
+    </h4>
+
+    {% endif %}
+
+    <hr>
+
+    <h5>Recommendations</h5>
+
+    <ul>
+
+        {% for tip in tips %}
+
+        <li>{{ tip }}</li>
+
+        {% endfor %}
+
+    </ul>
+
+</div>
+
+{% endif %}
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ================= ABOUT ================= -->
+
+    <section id="about" class="py-5">
+
+        <div class="container text-center">
+
+            <h2>About This Project</h2>
+
+            <p class="mt-3">
+
+                This project predicts whether a student is likely to be placed based on
+                academic performance and work experience using a Support Vector Machine
+                (SVM) model trained with Machine Learning.
+
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer class="text-center py-4">
+
+        <p>
+            © 2026 Student Placement Prediction System | Developed using Flask & Machine Learning
+        </p>
+
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+
+</html>

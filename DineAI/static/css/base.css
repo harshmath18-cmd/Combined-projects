@@ -1,0 +1,69 @@
+/* ==========================================
+   Base Styles
+========================================== */
+
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+
+html{
+
+    scroll-behavior:smooth;
+
+}
+
+body{
+
+    background:#050505;
+    color:#fff;
+    font-family:'Outfit',sans-serif;
+
+
+
+}
+
+h1,h2,h3,h4,h5{
+
+    font-family:'Outfit',sans-serif;
+    font-weight:700;
+
+}
+
+img{
+
+    width:100%;
+    display:block;
+
+}
+
+a{
+
+    text-decoration:none;
+    color:inherit;
+
+}
+
+button{
+
+    border:none;
+    cursor:pointer;
+
+}
+
+.container{
+
+    width:90%;
+    max-width:var(--container);
+    margin:auto;
+
+}
+
+section{
+
+    padding:0;
+
+}

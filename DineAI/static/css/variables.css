@@ -1,0 +1,36 @@
+/* ==========================================
+   DineAI Design Tokens
+========================================== */
+
+:root{
+
+    /* Background */
+    --bg-primary:#050505;
+    --bg-secondary:#0D0D0D;
+    --bg-card:#111111;
+
+    /* Glass */
+    --glass:rgba(255,255,255,.07);
+    --glass-border:rgba(255,255,255,.12);
+
+    /* Brand */
+    --gold:#F5A623;
+    --gold-light:#FFD369;
+
+    /* Text */
+    --white:#FFFFFF;
+    --grey:#B5B5B5;
+    --grey-light:#D8D8D8;
+
+    /* Radius */
+    --radius-sm:12px;
+    --radius-md:20px;
+    --radius-lg:32px;
+
+    /* Shadows */
+    --shadow:0 20px 60px rgba(0,0,0,.45);
+
+    /* Container */
+    --container:1400px;
+
+}

@@ -1,0 +1,918 @@
+Restaurant_Name,City,Place_Name,Cuisine,Dining_Rating,Delivery_Rating,Dining_Votes,Delivery_Votes,Avg_Price_Restaurant,Restaurant_Popularity
+1944 -The HOCCO Kitchen, Ahmedabad,Navrangpura,Shake,4.3,4.3,0,0,356.2837837837838,222
+A-One Bombay Biryani, Ahmedabad,Shahibagh,Biryani,3.3,3.5,25,0,163.85714285714286,35
+Al Baik Fast Food, Ahmedabad,Lal Darwaja,Sichuan,3.7,4.0,18,0,145.03086419753086,162
+Alinea Restaurant & Banquet, Ahmedabad,C G Road,Desserts,3.9,4.0,363,0,235.8653846153846,156
+Alpine Restaurant & Banquet, Ahmedabad,Ellis Bridge,Beverages,3.9,4.1,473,0,207.46,150
+Amritsar Punjab Paratha, Ahmedabad,Ambavadi,Beverages,3.9,3.7,4,546,214.77586206896552,232
+Anand Bhajipav & Pulav Ankurwala, Ahmedabad,Naranpura,Street Food,3.8,4.0,277,0,127.92993630573248,157
+Anjoy Latenight Meals, Ahmedabad,Gurukul,Beverages,3.822264031240087,4.0,0,0,267.7607655502392,209
+Bole To Vadapav, Ahmedabad,Naranpura,Beverages,3.0,3.6,1,183,40.84745762711864,59
+Burger Farm, Ahmedabad,Navrangpura,Beverages,3.4,4.2,5,30,183.28481675392672,191
+Cheers, Ahmedabad,C G Road,Ice Cream,4.1,4.3,458,0,135.01967289719627,214
+Dangee Dums, Ahmedabad,Paldi,Desserts,3.822264031240087,4.1,0,8,203.0728571428572,56
+Das Khaman, Ahmedabad,Astodia,Street Food,3.822264031240087,4.3,0,712,96.8873076923077,26
+Day 'N' Night, Ahmedabad,Navrangpura,Street Food,3.5,3.7,384,0,145.30864197530863,243
+Dum Safar Biryani, Ahmedabad,Memnagar,Desserts,3.822264031240087,4.3,0,724,663.3594470046083,217
+Farki, Ahmedabad,Ashram Road,Desserts,3.8,4.3,1,477,102.54046511627908,129
+Fayrouz, Ahmedabad,Prahlad Nagar,Beverages,4.3,4.1,322,0,551.6802507836991,319
+Gajanand Pauva House, Ahmedabad,Navrangpura,Shake,3.7,3.9,15,214,111.25,204
+Ghar Ka Khana by EatFit, Ahmedabad,Gulbai Tekra,Beverages,3.822264031240087,3.6,0,289,173.41176470588235,85
+Gopi Bhog, Ahmedabad,Bapunagar,Biryani,3.7,3.6,10,0,262.8788079470198,151
+Gordhan Thaal, Ahmedabad,Satellite,North Indian,4.3,4.1,0,0,493.75,8
+HL Frankie, Ahmedabad,Navrangpura,Beverages,3.7,3.9,0,637,238.63076923076923,65
+Hari Om Centre, Ahmedabad,Vastrapur,Gujarati,3.3,3.7,63,0,221.23926380368096,163
+Hari Om Chole Puri, Ahmedabad,Ellis Bridge,Gujarati,3.8,3.9,47,0,222.65060240963857,166
+Havmor Havfunn Ice Cream, Ahmedabad,Shahpur,Desserts,3.6,4.2,0,3,211.67222222222225,108
+Iscon Thal, Ahmedabad,Satellite,Gujarati,4.0,3.9,444,0,242.8765909090909,44
+Italio's Pizza, Ahmedabad,C G Road,Fast Food,3.822264031240087,3.9,0,0,215.9538461538461,65
+Jalaram, Ahmedabad,Kalupur,North Indian,4.1,4.1,115,0,118.1734693877551,98
+Jalaram Parotha House, Ahmedabad,Naranpura,North Indian,3.822264031240087,3.9,0,174,88.25,108
+Jassi De Parathe, Ahmedabad,Vastrapur,Beverages,4.3,4.3,0,0,230.8947368421053,190
+Jay Bhavani Vadapav, Ahmedabad,Navrangpura,Beverages,3.9,3.2,294,0,75.0,154
+Jay Shree Jalaram Parotha House, Ahmedabad,Naranpura,Kathiyawadi,3.822264031240087,3.4,2,556,99.78518518518518,135
+Karnavati Dabeli, Ahmedabad,Ellis Bridge,Fast Food,3.7,4.0,14,737,67.98701298701299,77
+Karnavati Snacks, Ahmedabad,Paldi,Sandwich,3.4,3.6,1,201,117.46031746031746,189
+Khichdi Etc, Ahmedabad,Navrangpura,North Indian,4.4,4.2,764,0,239.18965517241372,116
+La Milano Pizzeria, Ahmedabad,Ambavadi,Fast Food,4.2,4.0,542,0,261.6792452830189,159
+London Yard Pizza, Ahmedabad,Paldi,Beverages,3.4,3.7,127,0,247.91666666666663,108
+MS Food, Ahmedabad,Navrangpura,Shake,3.822264031240087,3.7,0,5,121.28125,64
+Maharaja Thalis, Ahmedabad,Gurukul,Gujarati,3.822264031240087,3.9,0,0,189.7684931506849,146
+Marky Momos, Ahmedabad,Navrangpura,Beverages,3.3,4.0,34,0,476.5212345679012,567
+Martino'z Pizza, Ahmedabad,Paldi,Mexican,4.4,3.9,0,9,219.655,100
+Momoman, Ahmedabad,Navrangpura,Sichuan,3.822264031240087,3.9,2,482,223.7311827956989,93
+Mumbaiya Misal & Vadapav, Ahmedabad,Navrangpura,Maharashtrian,3.9,3.8,4,427,108.88888888888889,126
+New Bombay Biryani, Ahmedabad,Shahpur,Biryani,3.8,3.7,82,0,185.41666666666663,12
+New Freeze Land, Ahmedabad,C G Road,Beverages,4.2,4.1,896,0,199.8051948051948,154
+Nishat Restaurant, Ahmedabad,Bhadra,Ice Cream,3.4,4.0,117,0,372.2674418604651,172
+Om Food Centre, Ahmedabad,Satellite,Kathiyawadi,3.6,3.8,2,484,206.26415094339623,159
+P. Bhagat Tarachand, Ahmedabad,Mani Nagar,Beverages,3.1,3.6,27,0,221.75399361022363,313
+PFZ, Ahmedabad,Mani Nagar,Sichuan,3.8,3.9,22,983,158.6141304347826,184
+Pizza Tune, Ahmedabad,Satellite,Desserts,3.0,3.5,188,0,122.95454545454544,66
+Pizza Zone, Ahmedabad,Paldi,Pasta,3.2,4.0,44,924,169.1951219512195,41
+Prithvi Hotel, Ahmedabad,Mani Nagar,Desserts,3.8,4.0,254,0,247.3018372703412,381
+Puffizza, Ahmedabad,Gurukul,Beverages,4.3,4.1,0,0,267.967032967033,91
+Purohit Restaurant, Ahmedabad,Mani Nagar,Chinese,4.2,4.1,383,0,194.46443514644352,239
+RP's Pizzeria, Ahmedabad,Paldi,Pasta,4.1,3.8,264,0,390.3380281690141,71
+Radhe Restaurants, Ahmedabad,Subhash Bridge,Beverages,3.9,3.9,27,0,249.2702290076336,262
+Sam's Pizza, Ahmedabad,Navrangpura,Fast Food,3.8,4.0,673,0,257.98148148148147,108
+Shakti - The Sandwich Shop, Ahmedabad,Ellis Bridge,Beverages,3.6,3.9,230,0,167.67857142857142,56
+Shivam Bhojnalay, Ahmedabad,Gurukul,Gujarati,3.0,3.5,149,0,259.2783505154639,194
+Shree Marutinandan Kathiyawadi Restaurant, Ahmedabad,Shivalik Yash,Beverages,3.2,3.8,44,0,141.50324675324674,308
+Shree Mehfil, Ahmedabad,Sola,Desserts,4.2,4.3,357,0,228.641975308642,243
+Square Thali, Ahmedabad,Navrangpura,North Indian,3.822264031240087,3.7,0,756,157.3582089552239,67
+The Grand Thakar, Ahmedabad,Satellite,Beverages,4.3,4.2,0,0,142.40983606557376,61
+The House Of Momo's, Ahmedabad,Mani Nagar,Chinese,4.3,3.6,35,0,213.88333333333333,120
+The Hunger Box, Ahmedabad,Bodakdev,Salad,3.822264031240087,4.0,0,0,235.5405405405405,74
+The Kebabish, Ahmedabad,Kankaria,Fast Food,3.8,3.7,337,0,302.5133689839572,187
+The Lio Pizza, Ahmedabad,Paldi,Beverages,3.8,3.8,36,0,277.3557692307692,104
+The Mohalla, Ahmedabad,Mani Nagar,Sichuan,4.1,3.7,105,0,219.74479166666663,192
+Umiya Annpurna Kathiyawadi, Ahmedabad,Isanpur,North Indian,3.3,3.8,42,0,134.4954954954955,111
+Urban Khichdi, Ahmedabad,Navrangpura,Beverages,4.6,4.1,0,0,240.68,125
+Vadilal - Scoop Shop, Ahmedabad,Ellis Bridge,Beverages,3.3,4.5,29,843,146.82092857142857,140
+Virasat - E - Curry, Ahmedabad,Memnagar,North Indian,3.822264031240087,3.9,0,0,208.6985294117647,136
+William John's Pizza, Ahmedabad,Navrangpura,American,3.3,3.9,0,22,220.2826086956522,46
+Z K Fry Centre, Ahmedabad,Bhadra,Mughlai,3.8,3.8,133,902,198.5057471264368,87
+GOPIZZA, Banaswadi,Orion East,Fast Food,3.7,3.8,47,139,335.8932989690722,97
+7 Plates, Bangalore,Frazer Town,Seafood,3.822264031240087,4.3,0,0,241.782122905028,179
+99 Variety Dosa & Pav Bhaji, Bangalore,Koramangala 6th Block,Maharashtrian,3.9,3.5,164,0,117.13496932515338,163
+A2B - Adyar Ananda Bhavan, Bangalore,Shanti Nagar,Beverages,3.4,4.1,6,0,177.48738372093024,344
+Ande Ka Funda, Bangalore,BTM,Chinese,3.2,3.8,92,0,101.75838926174497,149
+Andhra Gunpowder, Bangalore,Seshadripuram,Hyderabadi,3.822264031240087,4.3,0,0,337.59375,96
+Aromas Of Biryani, Bangalore,Jayanagar,North Indian,4.2,4.0,423,0,285.1468253968254,504
+Behrouz Biryani, Bangalore,Shanti Nagar,Kebab,3.822264031240087,4.1,0,644,609.2972972972973,333
+Beijing Bites, Bangalore,Richmond Road,Momos,3.8,3.8,385,0,274.1474820143885,278
+Brik Oven, Bangalore,Church Street,Shake,4.6,3.9,0,0,411.1194029850746,134
+Bucket Biryani, Bangalore,Brigade Road,Kebab,3.6,4.2,15,981,497.78125,64
+Burger King, Bangalore,Commercial Street,Beverages,3.8,4.1,747,0,254.63289940828403,1352
+Chaat Street, Bangalore,Koramangala 4th Block,Beverages,3.822264031240087,3.8,0,0,143.02142857142857,140
+Chickpet Donne Biryani House, Bangalore,Jayanagar,Kebab,2.6,3.8,5,487,306.72093023255815,86
+Chinese Wok, Bangalore,Malleshwaram,Chinese,3.3,4.0,2,593,277.85561497326205,187
+Crispy Studio, Bangalore,JP Nagar,Biryani,4.1,4.2,59,0,233.6571304347826,115
+Daily Sushi, Bangalore,Church Street,Beverages,4.3,4.3,138,240,434.6818181818182,220
+Domino's Pizza, Bangalore,MG Road,Fast Food,3.4,3.7,86,0,305.0587038327526,1435
+Donne Biriyani Mane, Bangalore,Indiranagar,South Indian,3.5,4.1,184,0,394.98,50
+Donne Biryani House, Bangalore,Malleshwaram,South Indian,3.7,4.0,111,0,166.0,20
+EasyBites by Empire, Bangalore,Brigade Road,Beverages,3.822264031240087,3.9,0,0,216.9512195121951,123
+EatFit, Bangalore,Cunningham Road,Beverages,3.822264031240087,4.1,0,0,231.7420382165605,314
+Five Star Chicken, Bangalore,Richmond Road,Burger,3.5,3.5,0,22,140.64150943396226,53
+FreshMenu, Bangalore,Richmond Road,Chinese,3.822264031240087,3.9,0,0,259.40474020054694,1097
+FreshMenu, Bangalore,Frazer Town,Chinese,3.822264031240087,3.9,0,0,259.40474020054694,1097
+Goila Butter Chicken, Bangalore,Koramangala 6th Block,Rolls,3.822264031240087,3.9,0,612,292.6117647058824,170
+Goli Vada Pav No. 1, Bangalore,Kammanahalli,Ice Cream,3.3,3.7,1,213,96.0559574468085,47
+Gopaljee Cafe, Bangalore,Koramangala 7th Block,Beverages,4.1,4.1,121,0,135.15625,64
+HSR High Street, Bangalore,HSR,Desserts,3.9,4.0,0,0,220.9763779527559,254
+Hari Super Sandwich, Bangalore,Basavanagudi,Pizza,4.2,3.8,342,0,85.78658536585365,164
+Hari Super Sandwich, Bangalore,Seshadripuram,Street Food,3.8,3.8,1,304,85.78658536585365,164
+Hotel Karavali Food Point, Bangalore,Vijay Nagar,Chinese,3.7,3.6,196,0,135.60087719298247,228
+Hotel N.G.T Non Veg, Bangalore,Vijay Nagar,Chinese,3.822264031240087,4.0,0,908,160.375,96
+Hotel Navayuga, Bangalore,Majestic,Biryani,4.4,4.2,294,0,350.0,18
+IBC (Indian Biryani Company), Bangalore,Koramangala 5th Block,Mughlai,3.822264031240087,3.7,0,888,258.2151898734177,79
+Iyer Mess, Bangalore,Malleshwaram,South Indian,3.4,4.2,373,0,56.57142857142857,7
+Just Cakes, Bangalore,Koramangala 7th Block,Desserts,3.822264031240087,4.1,0,0,331.0416666666667,48
+KFC, Bangalore,Brigade Road,Beverages,4.0,3.7,159,660,349.67315579227693,751
+Karnataka Biryani Point, Bangalore,Rajajinagar,South Indian,3.7,3.8,37,0,89.44444444444444,9
+Kataria's, Bangalore,BTM,Beverages,3.1,3.5,87,0,99.8876404494382,178
+Keventers - Milkshakes & Desserts, Bangalore,Garuda Mall,Desserts,3.4,4.3,22,910,224.39866492146595,382
+Kolkata Famous Kati Roll, Bangalore,Nagawara,Rolls,3.822264031240087,3.6,0,0,81.05263157894737,19
+Krispy Kreme, Bangalore,Richmond Road,Beverages,3.5,4.4,60,0,208.17021276595744,47
+Kwality Walls Frozen Dessert and Ice Cream Shop, Bangalore,Wilson Garden,Desserts,3.822264031240087,4.2,0,553,163.5984251968504,127
+La Pino'z Pizza, Bangalore,Basavanagudi,Fast Food,2.5,3.9,26,0,216.2983870967742,868
+Lassi N Cafe, Bangalore,Banaswadi,Beverages,3.7,3.9,3,18,124.40625,160
+Lassi Shop, Bangalore,Residency Road,Fast Food,3.6,3.5,0,63,99.09183673469389,294
+Living Bowls, Bangalore,Koramangala 7th Block,Juices,3.822264031240087,3.7,0,604,210.32407407407408,108
+Lulu Hypermarket, Bangalore,Rajajinagar,Bakery,3.9,3.9,23,0,237.4804469273743,179
+MOJO Pizza - 2X Toppings, Bangalore,Shanti Nagar,Desserts,3.822264031240087,4.3,0,590,341.6040268456376,298
+Magnolia Bakery, Bangalore,Indiranagar,Beverages,4.0,4.4,898,0,348.5882352941176,85
+Marwadi Chaat & Tiffin Services, Bangalore,Shanti Nagar,Beverages,3.7,3.8,107,0,226.77433628318585,226
+McDonald's, Bangalore,MG Road,Beverages,3.5,3.8,214,0,264.2809762020398,2059
+Meat And Eat, Bangalore,Domlur,Desserts,3.4,3.6,76,0,234.1656626506024,332
+Meghana Foods, Bangalore,Residency Road,Seafood,4.3,4.4,0,0,278.0494326241135,282
+Meghduth Biryanis, Bangalore,Sanjay Nagar,South Indian,3.822264031240087,3.7,0,0,328.80392156862746,51
+Mother's Meal, Bangalore,CV Raman Nagar,Chinese,4.2,4.3,162,0,162.41810344827587,116
+NIC Ice Creams, Bangalore,Frazer Town,Desserts,3.822264031240087,4.5,0,0,196.3634210526316,228
+Nandini Deluxe, Bangalore,Banaswadi,Bbq,3.9,3.7,109,0,274.02054794520546,146
+Nisarga, Bangalore,Basaveshwara Nagar,Biryani,3.4,4.1,137,0,237.2130801687764,237
+Onesta, Bangalore,Mantri Square,Beverages,3.822264031240087,3.6,0,197,232.26657458563537,362
+Paratha Club, Bangalore,New BEL Road,North Indian,3.4,4.2,20,84,125.0,37
+Paratha Envy, Bangalore,Seshadripuram,North Indian,3.822264031240087,4.2,0,169,100.07692307692308,13
+Pathaan Sir, Bangalore,Wilson Garden,Rolls,3.822264031240087,3.4,0,280,142.35443037974684,79
+Pizza Hut, Bangalore,Shanti Nagar,Beverages,3.4,3.9,271,0,287.27036211699163,1077
+Pizza@99, Bangalore,Rajajinagar,Fast Food,3.822264031240087,3.2,0,578,144.02631578947367,76
+Puliyogare Point, Bangalore,Basavanagudi,Desserts,4.2,4.3,760,0,69.01724137931035,58
+RNR Biryani - Taste Of 1953, Bangalore,Jayanagar,Andhra,4.2,4.3,0,0,379.7637795275591,127
+Razakhiya Hotel, Bangalore,HBR Layout,Sichuan,3.7,3.9,60,0,191.0540540540541,185
+Rolls On Wheels, Bangalore,St. Marks Road,North Indian,3.1,4.0,0,64,236.3870967741936,93
+Roti Ghar, Bangalore,Basavanagudi,Beverages,3.5,4.1,927,0,133.93730407523512,319
+Sandwich Guru, Bangalore,Wilson Garden,Beverages,3.822264031240087,4.1,0,11,67.97872340425532,94
+Savi Sagar, Bangalore,Malleshwaram,Beverages,3.9,3.8,221,0,133.7155172413793,232
+Shanmukha, Bangalore,JP Nagar,Seafood,4.2,4.1,0,0,279.72121212121215,165
+Sri Udupi Food Hub, Bangalore,Majestic,Beverages,3.3,4.1,7,0,157.84765625,256
+TKS Iyengars, Bangalore,Basaveshwara Nagar,South Indian,3.4,4.0,79,0,75.33098591549296,142
+Tapri By The Corner, Bangalore,Koramangala 5th Block,Chinese,4.2,3.7,179,0,174.04605263157896,152
+Texas Burgers, Bangalore,Thippasandra,Burger,3.822264031240087,4.0,0,0,304.54330708661416,127
+Thalairaj Biryani, Bangalore,Indiranagar,South Indian,3.822264031240087,4.1,0,0,263.8840579710145,69
+Theobroma, Bangalore,Lavelle Road,Beverages,3.3,4.3,32,0,388.8848920863309,278
+Truffles, Bangalore,St. Marks Road,Desserts,4.6,4.3,0,0,220.9531320754717,530
+WOW! China, Bangalore,Church Street,Momos,4.0,3.9,47,0,256.0793926247289,461
+WOW! Momo, Bangalore,Church Street,Fast Food,3.0,4.2,4,180,192.7151861702128,376
+Wendy's Burgers, Bangalore,Shanti Nagar,American,3.822264031240087,4.2,0,0,241.7195652173913,460
+A1 Ambur Briyani & Kababs, Chennai,Aminijikarai,Chinese,4.0,3.7,92,0,254.0943396226415,106
+A2B - Adyar Ananda Bhavan, Chennai,Purasavakkam,Juices,3.6,4.2,137,0,177.48738372093024,344
+AB's - Absolute Barbecues, Chennai,T. Nagar,Desserts,4.7,3.7,0,0,346.11380952380955,84
+Adhiya Beef Biriyani, Chennai,Nungambakkam,Biryani,3.822264031240087,3.6,0,0,163.66037735849056,106
+Agarwal's Desi Khana Khazana, Chennai,Kilpauk,Rajasthani,3.1,4.1,26,484,204.85534591194968,159
+Al Baik, Chennai,Egmore,Beverages,3.0,3.5,48,716,378.959595959596,99
+Al Faham, Chennai,Vepery,Beverages,3.6,3.6,117,0,267.0685483870968,248
+Ambaram Fast Food, Chennai,Egmore,Biryani,3.8,3.6,35,0,137.58620689655172,58
+Ambur Star Briyani, Chennai,T. Nagar,Sichuan,4.2,4.0,207,0,340.65656565656565,198
+Anjappar, Chennai,Parrys,Beverages,3.1,3.8,74,0,284.8728813559322,236
+Armaani Biryani, Chennai,Arumbakkam,Seafood,3.822264031240087,3.6,0,84,319.86486486486484,37
+BBQ Master, Chennai,Perambur,Sichuan,3.5,4.1,4,0,217.14634146341464,123
+Babal Da Punjabi Dabha, Chennai,Egmore,Beverages,4.4,4.2,405,0,277.9638242894057,387
+Basheer Bai Biriyani, Chennai,Egmore,Kerala,3.3,3.8,16,0,162.0,10
+Bismillah Briyani & Fast Foods, Chennai,Kolathur,Sichuan,3.9,3.8,176,0,202.88023952095807,167
+Buhari Vintage Hotel, Chennai,Kilpauk,Beverages,3.5,4.1,101,0,296.8160377358491,212
+BurgerMan, Chennai,Egmore,Beverages,4.4,4.3,56,921,256.5247524752475,101
+Cafe Amin, Chennai,Royapettah,Beverages,4.1,4.2,260,0,208.4172661870504,139
+Chicking, Chennai,Nungambakkam,Fast Food,3.3,4.0,151,0,345.7654320987654,81
+Chidambaram New Moorthy Cafe, Chennai,Anna Nagar West,Beverages,4.3,4.1,246,0,247.7003745318352,267
+Courtallam Border Rahmath Kadai, Chennai,T. Nagar,Biryani,4.0,4.0,904,0,242.3305785123967,121
+Delhi Dhaba, Chennai,Gopalapuram,Beverages,3.0,3.8,6,23,280.51181102362204,127
+Dindigul Veetu Kalyanam, Chennai,Egmore,Biryani,3.822264031240087,3.5,0,601,200.5,44
+Domino's Pizza, Chennai,Perambur,Desserts,3.5,4.2,4,0,305.0587038327526,1435
+EatFit, Chennai,Aminijikarai,Beverages,3.822264031240087,4.0,0,0,231.7420382165605,314
+Eating Circles, Chennai,Alwarpet,South Indian,4.6,4.1,875,0,148.44736842105263,76
+Ferrara Pizzeria, Chennai,Nungambakkam,Fast Food,3.9,4.1,27,319,332.9375,32
+Five Star Chicken, Chennai,Triplicane,Rolls,3.822264031240087,3.4,0,0,140.64150943396226,53
+Go Grill, Chennai,Arumbakkam,Bbq,3.0,4.2,0,205,200.83898305084745,118
+Great Indian Khichdi by EatFit, Chennai,Aminijikarai,Beverages,3.822264031240087,4.0,0,676,185.06976744186048,86
+Grill A Delics, Chennai,Washermenpet,Beverages,4.1,3.8,142,303,254.19078947368425,152
+Gusto Pizza, Chennai,Mylapore,Fast Food,3.822264031240087,3.8,0,77,258.4054054054054,111
+Hotel Paramount, Chennai,Kilpauk,Beverages,4.1,4.2,975,0,212.512,250
+Hotel Sennthur, Chennai,Anna Salai,Beverages,3.8,4.2,171,0,137.07981220657277,213
+Ibrahim Biriyani, Chennai,Kilpauk,Kebab,3.8,4.0,41,0,110.0,10
+Jango'z, Chennai,Royapuram,Fast Food,3.9,3.6,7,674,358.2657575757576,99
+Junior Kuppanna, Chennai,Nungambakkam,Beverages,3.4,3.6,108,0,357.280487804878,164
+KFC, Chennai,Park Town,Fast Food,3.6,3.8,0,32,349.67315579227693,751
+KMS Hakkim Kalyana Biriyani, Chennai,Nungambakkam,Beverages,2.9,3.7,17,819,316.1456310679612,309
+Keifer, Chennai,Purasavakkam,Shake,3.822264031240087,3.7,0,140,153.78542510121457,247
+Khalids Biriyani, Chennai,T. Nagar,Chinese,3.5,3.8,31,0,604.0540579710146,138
+Kim Ling Chinese Restaurant, Chennai,Anna Nagar East,Beverages,4.3,4.3,539,0,295.06734006734007,297
+Kunafa House, Chennai,Nungambakkam,Desserts,3.9,4.2,62,746,353.1818181818182,22
+Lina's Brickoven Newyork Pizzeria, Chennai,T. Nagar,Fast Food,4.4,4.1,72,968,552.1103448275862,145
+Little Hut, Chennai,Anna Nagar West,Bbq,3.6,4.0,177,570,240.72941176470587,255
+Little India, Chennai,Alwarpet,Biryani,4.0,4.2,32,340,230.95951417004048,247
+Little Italy, Chennai,Nungambakkam,Pizza,4.4,3.8,349,0,451.3787234042553,235
+Liza Restaurant, Chennai,Vepery,Beverages,3.9,4.1,141,0,203.75061728395065,405
+Madurai Pandian Mess, Chennai,Royapettah,Bbq,3.3,4.0,166,0,150.7391304347826,115
+Madurai Sri Thevar Hotel, Chennai,Parrys,South Indian,3.8,3.7,112,0,167.94392523364485,107
+Mathsya, Chennai,Egmore,Shake,4.2,4.1,0,0,180.73529411764707,272
+McDonald's, Chennai,Anna Salai,Fast Food,3.6,3.9,152,0,264.2809762020398,2059
+Meat And Eat, Chennai,Royapettah,Beverages,3.0,3.7,77,0,234.1656626506024,332
+Mr. Burger, Chennai,Parrys,Fast Food,3.7,3.9,0,137,184.3636363636364,77
+Navrang Restaurant, Chennai,Royapettah,Sichuan,3.8,3.9,122,0,165.1361502347418,213
+Nxtdoor, Chennai,Purasavakkam,Sichuan,3.822264031240087,3.9,0,0,168.28803191489362,188
+Oyalo Pizza, Chennai,Triplicane,Desserts,3.822264031240087,3.6,0,520,382.9622222222222,45
+Ponnusamy Hotel, Chennai,Egmore,Beverages,3.4,3.7,127,0,243.8483146067416,178
+Potful - Claypot Biryanis, Chennai,Anna Nagar West,North Indian,3.822264031240087,4.2,0,0,520.0123456790124,81
+Reena Paul's Kitchen, Chennai,Anna Nagar West,Chinese,3.822264031240087,4.1,0,0,226.81182795698925,186
+Riyas Biriyani, Chennai,Purasavakkam,Fast Food,3.9,3.8,5,960,126.75675675675676,37
+Salem RR Biriyani Unavagam, Chennai,Triplicane,Seafood,4.0,3.5,47,0,317.52564102564105,78
+Sam's Pork And Beef, Chennai,Anna Nagar East,Biryani,3.822264031240087,3.9,0,788,198.625,24
+Samco, Chennai,Alwarpet,Beverages,3.8,4.2,634,0,289.77966101694915,354
+Sangeetha Veg Restaurant - Gandhi Irwin Road, Chennai,Egmore,Shake,3.8,4.1,236,0,188.4761886792453,265
+Savoury Sea Shell, Chennai,Thousand Lights,Sichuan,4.0,4.1,848,0,346.9126050420168,595
+Shawarma Kings, Chennai,Anna Nagar East,Kebab,3.822264031240087,4.0,0,0,176.48809523809524,84
+Shero Home Food - Chettinad, Chennai,Vepery,Desserts,3.822264031240087,3.9,0,41,139.32679738562092,153
+Shree Konar Vilas, Chennai,Purasavakkam,Biryani,4.3,3.9,208,0,254.91869918699183,123
+Subway, Chennai,Kilpauk,Fast Food,3.8,3.5,192,0,245.1002430133657,823
+"T Shop - Tea, Snacks & More", Chennai,Royapettah,Beverages,3.9,3.9,30,824,121.88288288288288,111
+Taj Mughalai, Chennai,Purasavakkam,Sichuan,3.822264031240087,3.6,0,717,141.9731543624161,149
+Taste Of Turkey, Chennai,George Town,Kebab,3.822264031240087,4.3,0,258,197.34375,32
+Thanjai Veeraswamy, Chennai,T. Nagar,Beverages,4.1,3.7,121,0,237.2280701754386,114
+The Burger Cafe, Chennai,Perambur,Shake,3.822264031240087,4.0,0,868,114.51515151515152,66
+The Chef Company, Chennai,Nungambakkam,Healthy Food,3.822264031240087,4.2,0,0,216.2450980392157,204
+The High Joint, Chennai,Alwarpet,Beverages,3.822264031240087,4.2,0,264,256.5681818181818,44
+The Kati Roll Shop, Chennai,Gopalapuram,Kebab,4.2,4.0,422,0,224.9333333333333,75
+The Old Mirchi Biryani, Chennai,Alwarpet,Desserts,3.822264031240087,4.2,0,0,268.1851851851852,135
+Tibet Momo - World Class Pan Asian Cuisine, Chennai,Kora Food Street,Tibetan,3.9,4.1,99,0,169.0,20
+Toscano, Chennai,Nungambakkam,Beverages,4.7,4.1,891,0,501.85641025641024,195
+Tower Burger, Chennai,Perambur,Beverages,3.8,3.7,0,64,110.20560747663552,107
+UBQ by Barbeque Nation, Chennai,Nungambakkam,Desserts,3.822264031240087,3.9,0,0,438.49013157894734,304
+WOW! China, Chennai,Aminijikarai,Seafood,4.0,3.8,77,709,256.0793926247289,461
+Wangs Kitchen, Chennai,Royapettah,Desserts,3.3,4.0,279,0,395.0709219858156,141
+Writer's Cafe, Chennai,Egmore,Beverages,4.1,4.0,31,0,185.1214893617021,141
+Zam Zam Briyani, Chennai,Choolaimedu,North Indian,3.3,3.4,24,0,233.5299145299145,117
+Asian Bowls By Zahvi, Goa,Porvorim,Vietnamese,3.822264031240087,3.9631842584799433,0,3,512.5,4
+Atlanta  Family Resto And Bar, Goa,Porvorim,Ice Cream,3.822264031240087,3.9631842584799433,0,0,275.99378881987576,161
+Atom-Bomb Quality Kitchen, Goa,Penha de Franca,Sichuan,3.822264031240087,3.5,0,508,302.33962264150944,53
+Bar Malim, Goa,Penha de Franca,Fast Food,3.822264031240087,3.9631842584799433,0,0,145.58823529411765,68
+Bhosle's Food Court, Goa,Panaji,North Indian,2.7,3.9631842584799433,15,1,76.35483870967742,31
+Biryani Hub, Goa,Porvorim,Desserts,3.822264031240087,3.9631842584799433,0,0,375.5,20
+Cafe Ave Maria, Goa,Panaji,Bakery,3.822264031240087,3.9,0,807,176.9277108433735,83
+Cafe Central, Goa,Penha de Franca,Street Food,3.9,4.0,15,31,114.08809523809524,21
+Cafe Cilantro, Goa,Porvorim,Maharashtrian,3.822264031240087,3.7,0,250,237.98076923076923,52
+Cafe Cup Of Joy, Goa,Candolim,Street Food,3.822264031240087,3.9631842584799433,0,4,131.25,16
+Cafe Feed Me More, Goa,Saligao,Fast Food,3.822264031240087,3.9631842584799433,0,1,112.57575757575758,33
+Cafe Rasa, Goa,Panaji,Sandwich,3.9,3.9631842584799433,16,0,298.3333333333333,30
+Cake Destination, Goa,Porvorim,Desserts,3.822264031240087,3.9631842584799433,0,0,122.3076923076923,13
+Evoke, Goa,Candolim,Thai,3.822264031240087,3.9631842584799433,0,0,336.5,4
+Goa'rmet By The Tiffin Factory, Goa,Panaji,Desserts,3.822264031240087,3.9631842584799433,0,14,218.8188976377953,127
+Goyaan, Goa,Porvorim,Fast Food,3.822264031240087,3.9631842584799433,0,0,165.31914893617022,47
+Grillin' It, Goa,Porvorim,Biryani,3.9,3.5,10,45,283.2716049382716,81
+Joshis Masala Mantra, Goa,Panaji,Sichuan,3.822264031240087,3.9,0,132,232.2549019607843,153
+Jubilee Restaurant, Goa,Panaji,Chinese,3.822264031240087,3.9631842584799433,0,0,133.88888888888889,81
+Mum Mai, Goa,Panaji,Fast Food,3.822264031240087,4.1,0,131,167.0,40
+NR - Navaratna Udupi Pure Veg, Goa,Porvorim,South Indian,3.822264031240087,3.8,2,418,179.63345195729536,281
+Namaste Chai, Goa,Porvorim,Ice Cream,3.822264031240087,3.9,0,590,75.89322916666667,96
+Pakiza Restaurant, Goa,Panaji,North Indian,3.8,3.7,19,204,162.82926829268294,41
+Patil Misal, Goa,Porvorim,Maharashtrian,3.7,3.5,24,129,46.84615384615385,13
+Poi & Rolls Adda, Goa,Panaji,Rolls,3.822264031240087,3.9631842584799433,0,11,171.95454545454547,22
+Ritz Classic, Goa,Mall De Goa,Beverages,4.4,4.1,105,405,372.8967254408061,397
+Shivam Classic, Goa,Panaji,Beverages,3.822264031240087,3.9631842584799433,0,3,174.55384615384617,195
+TFC - The Food Club, Goa,Bardez,Fast Food,3.822264031240087,3.8,0,53,223.445945945946,74
+Tasty Tiffin Food Service, Goa,Penha de Franca,North Indian,3.822264031240087,4.1,0,222,104.48,25
+The Royal Rucchik Restaurant, Goa,Porvorim,Sichuan,3.4,3.2,9,381,135.77586206896552,58
+The Royal Ruchik, Goa,Panaji,Biryani,3.6,4.2,36,0,183.225,40
+4M Biryani House, Hyderabad,Musheerabad,Chinese,4.1,4.2,0,0,211.5703125,128
+A Balaji Santosh Dhaba, Hyderabad,Langer Houz,Chinese,3.7,4.0,9,974,288.5988700564972,177
+Acme Candy Food, Hyderabad,Malakpet,Desserts,3.822264031240087,3.9631842584799433,0,0,262.3529411764706,17
+Akbar Fast Food, Hyderabad,Charminar Area,North Indian,3.1,3.6,10,0,126.0,5
+Al - Hamoor Arabian Restaurant, Hyderabad,Chandrayanagutta,Desserts,3.822264031240087,3.8,1,116,428.0,5
+Al Akbar Fast Food Corner, Hyderabad,Charminar,Beverages,3.9,4.2,5,0,152.375,16
+Al Farooj Sonu Kabab, Hyderabad,Ghansi Bazaar,North Indian,4.0,3.9,66,0,181.6818181818182,44
+Al Rabea Al Arabi Cafeteria, Hyderabad,Saroor Nagar,Fast Food,3.2,4.4,40,0,162.95238095238096,42
+Al Rabea Mandi House, Hyderabad,Charminar,Mandi,3.822264031240087,4.3,1,198,466.4285714285714,14
+Ambika Foods, Hyderabad,Attapur,Momos,3.822264031240087,3.9,0,111,154.2016806722689,119
+Amfah Hotel, Hyderabad,Mehdipatnam,North Indian,4.2,3.7,129,0,214.8048780487805,41
+Arabian Central, Hyderabad,Chandrayanagutta,Fast Food,2.9,4.3,8,975,160.0,40
+Arabian Food Court, Hyderabad,Falaknuma,Fast Food,3.822264031240087,4.0,0,217,93.0,5
+Art Of Biryani, Hyderabad,Kothapet,Desserts,4.0,3.7,63,0,349.969696969697,99
+Balaji Santosh Family Dhaba, Hyderabad,Amberpet,Beverages,3.8,4.1,273,0,238.99497487437185,199
+Barbeque Nation, Hyderabad,Abids,Beverages,4.2,3.8,34,369,656.7478991596639,119
+Barrack's Grill, Hyderabad,Chandrayanagutta,Beverages,3.822264031240087,4.1,0,403,180.5,58
+Bawarchi, Hyderabad,RTC X roads,Desserts,4.2,4.1,0,0,178.33333333333334,135
+Blue Sea Restaurant, Hyderabad,Basheer Bagh,North Indian,3.822264031240087,4.1,2,940,213.57954545454547,176
+Blue Sea Tea & Bakery, Hyderabad,Abids,Bakery,3.822264031240087,3.9631842584799433,0,0,155.0,36
+BrownBear, Hyderabad,Himayath Nagar,Fast Food,3.6,4.0,239,0,371.0,35
+Burger King, Hyderabad,The Next Galleria Mall,Fast Food,4.1,4.1,253,0,254.63289940828403,1352
+Cafe 555 & Aqeeq Restaurant, Hyderabad,Masab Tank,Desserts,4.2,4.1,0,0,218.39518900343643,291
+Cafe Niloufer, Hyderabad,Himayath Nagar,Beverages,4.3,4.4,338,0,235.8102643171806,227
+CakeZone, Hyderabad,Himayath Nagar,Desserts,3.822264031240087,4.2,0,0,416.0851063829787,188
+California Burrito, Hyderabad,Boiguda,Beverages,4.2,4.3,221,0,221.4361403508772,114
+Capital Multi Cuisine Restaurant, Hyderabad,Malakpet,Beverages,4.2,3.9,0,0,336.6788990825688,545
+Capital Multi Cuisine Restaurant, Hyderabad,Basheer Bagh,Mughlai,2.7,3.7,32,428,336.6788990825688,545
+Captain Kunafa, Hyderabad,Malakpet,Turkish,4.1,4.1,208,699,244.0909090909091,22
+Chotu's The Food People, Hyderabad,Ghansi Bazaar,Biryani,3.7,3.7,64,0,106.69426751592356,157
+Coffee Cream, Hyderabad,Ghansi Bazaar,Chinese,3.2,4.0,42,0,166.58407079646017,113
+Cream Stone Ice Cream, Hyderabad,Begum Bazaar,Desserts,4.1,4.3,133,0,264.7217391304348,115
+Crystal Restaurant & Bar, Hyderabad,Nallakunta,Biryani,4.2,3.9,697,0,297.68398268398266,231
+Dine Hill, Hyderabad,Masab Tank,Chinese,4.1,3.9,0,0,312.90625,128
+Doner King, Hyderabad,Malakpet,Fast Food,3.9,4.2,39,0,171.34782608695653,46
+Down Town Restaurant & Cafeteria, Hyderabad,Masab Tank,Beverages,3.822264031240087,3.9631842584799433,0,0,153.07692307692307,13
+Exotica, Hyderabad,12th Square Building,Beverages,4.6,4.3,0,0,561.7751479289941,169
+Express By ABs, Hyderabad,Malakpet,Biryani,3.822264031240087,3.8,0,112,290.30559139784947,93
+Faasos - Wraps & Rolls, Hyderabad,Abids,Rolls,3.822264031240087,4.0,0,0,298.8417980295567,406
+Fancy Ice Cream, Hyderabad,Charminar,Ice Cream,3.0,4.1,17,0,137.97368421052633,114
+Food Track, Hyderabad,Charminar,Beverages,4.3,4.1,16,0,130.04854368932038,103
+Gelatica Gelato - Ice Cream, Hyderabad,Narayanguda,Desserts,3.822264031240087,3.9,0,203,99.0,22
+Govind Dosa, Hyderabad,Charminar,South Indian,4.4,3.5,997,0,89.48529411764706,68
+Grand Bawarchi Restaurant, Hyderabad,Falaknuma,Kebab,4.2,4.2,423,0,338.05555555555554,72
+Grand Hotel, Hyderabad,Abids,Beverages,4.2,4.1,0,0,202.511961722488,209
+Hotel Nayaab, Hyderabad,Charminar,Beverages,4.3,4.0,540,0,273.9583333333333,72
+Hotel Rumaan, Hyderabad,Charminar,North Indian,4.1,4.1,0,115,190.20967741935485,62
+Hotel Shadab, Hyderabad,Ghansi Bazaar,Beverages,4.3,4.1,0,0,283.77659574468083,94
+Hotel Shubham Prestige, Hyderabad,Saroor Nagar,Beverages,3.5,3.8,57,0,222.6455696202532,237
+Hotel Swagath Grand, Hyderabad,Meerpet,Beverages,4.2,4.0,495,0,226.30701754385964,228
+Indira Darshini, Hyderabad,Khairatabad,North Indian,4.1,4.0,131,0,118.17117117117115,111
+Iqbal Cafe, Hyderabad,Charminar,Biryani,3.1,4.3,12,0,111.25,36
+Istanbul, Hyderabad,Malakpet,Wraps,4.3,4.3,236,0,176.4102564102564,39
+Italian Pizzeria, Hyderabad,Mehdipatnam,Shake,4.0,3.5,325,0,179.5505617977528,178
+KS Bakers, Hyderabad,Narayanguda,Burger,3.2,4.0,10,0,202.03676470588235,136
+Karachi Bakery, Hyderabad,Nampally,Fast Food,3.822264031240087,3.8,0,332,309.88070967741936,155
+Kritunga, Hyderabad,Himayath Nagar,Beverages,3.1,3.7,31,0,257.5,12
+Kwality Walls Frozen Dessert and Ice Cream Shop, Hyderabad,Kacheguda,Desserts,3.822264031240087,4.5,0,346,163.5984251968504,127
+La Pino'z Pizza, Hyderabad,Himayath Nagar,Fast Food,3.9,4.0,6,505,216.2983870967742,868
+Lassi Shop, Hyderabad,Malakpet,Desserts,3.4,4.1,14,662,99.09183673469389,294
+Late Night Biryani, Hyderabad,Saroor Nagar,North Indian,3.822264031240087,3.4,0,0,215.42857142857144,56
+Leon's Burgers & Wings, Hyderabad,Himayath Nagar,Fast Food,3.3,4.2,20,0,221.20527131782944,129
+Louis Burger, Hyderabad,Banjara Hills,Fast Food,3.822264031240087,4.1,0,774,350.04395604395603,91
+Lucky Multicuisine Restaurant, Hyderabad,Somajiguda,Mandi,4.2,3.8,692,0,225.61567164179104,268
+Lucky Restaurant, Hyderabad,Saroor Nagar,Beverages,4.1,4.0,0,0,235.03472222222223,144
+MRCB, Hyderabad,Dilsukhnagar,Mughlai,3.822264031240087,3.2,0,129,129.56666666666666,60
+MS Bakery, Hyderabad,Attapur,Bakery,3.822264031240087,4.1,0,0,154.2396694214876,121
+MS Bakery & Sweets, Hyderabad,Falaknuma,Pizza,3.822264031240087,4.2,0,0,177.59285714285716,140
+MS Mandi & Shawarma, Hyderabad,Charminar,Beverages,3.8,3.9,33,0,230.71518987341773,158
+Mandi Town, Hyderabad,Khairatabad,Kebab,3.4,3.8,5,535,555.3333333333334,30
+Marhaba Shawarma & Wraps, Hyderabad,Himayath Nagar,Shake,3.7,4.0,26,587,189.025,40
+Mataam Al Yamani, Hyderabad,Lakdikapul,Mandi,3.7,3.7,144,0,299.0135714285714,42
+Mayur Pan House, Hyderabad,Abids,Ice Cream,4.3,3.9,564,0,124.77173913043478,184
+McDonald's, Hyderabad,MPM Mall,Fast Food,3.2,3.9,137,0,264.2809762020398,2059
+Mehfil, Hyderabad,Narayanguda,North Indian,4.1,4.0,0,0,234.1358695652174,184
+Mohammedia Shawarma, Hyderabad,Saroor Nagar,Fast Food,3.4,3.8,2,18,150.0,9
+Mughal Restaurant, Hyderabad,Lakdikapul,Desserts,3.8,4.1,258,0,190.45967741935485,124
+NIC Ice Creams, Hyderabad,Narayanguda,Desserts,3.822264031240087,4.4,0,0,196.3634210526316,228
+Natural Ice Cream, Hyderabad,Himayath Nagar,Desserts,3.822264031240087,4.5,0,368,137.70409523809525,105
+Nazeer Juice Center, Hyderabad,Charminar,Shake,2.9,4.2,5,0,151.7,50
+New Grand Restaurant & Bakery, Hyderabad,Begum Bazaar,Bakery,4.0,4.0,129,0,136.515625,256
+New King Safina Hotel, Hyderabad,Charminar,North Indian,3.8,4.3,146,0,195.8181818181818,44
+New Santosh Dhaba, Hyderabad,Begum Bazaar,Beverages,4.2,3.7,209,0,173.45197740112994,177
+Nimrah Restaurant, Hyderabad,Nampally,Desserts,3.9,4.1,72,857,245.8823529411765,187
+Onesta, Hyderabad,Banjara Hills,Beverages,4.3,3.6,0,0,232.26657458563537,362
+Ovenstory Pizza, Hyderabad,Abids,Fast Food,3.822264031240087,4.1,0,0,385.23701704545454,352
+Papadams Blue, Hyderabad,Kothapet,Desserts,4.0,3.9,625,0,303.25,228
+Paradise Biryani, Hyderabad,Charminar Area,Desserts,3.7,3.5,46,0,333.6216216216216,37
+Peshawar, Hyderabad,Malakpet,Chinese,3.1,4.1,4,540,321.43333333333334,90
+Pista House, Hyderabad,Charminar Area,Beverages,3.7,4.1,40,0,346.57522123893807,113
+Pista House - Premium Lounge, Hyderabad,Charminar Area,Beverages,3.1,4.1,16,0,256.2985074626866,201
+Pista House Bakery, Hyderabad,Charminar,Beverages,3.822264031240087,4.3,0,0,513.3112582781457,151
+Pizza Hut, Hyderabad,Kacheguda,Beverages,3.5,3.8,46,0,287.27036211699163,1077
+Platform 65, Hyderabad,Dilsukhnagar,Beverages,4.0,4.0,924,0,283.54,250
+Red Bucket Biryani, Hyderabad,Saroor Nagar,Biryani,3.822264031240087,4.1,0,100,1011.71875,64
+Redaan Restaurant, Hyderabad,Charminar,North Indian,3.822264031240087,4.3,3,743,219.65546218487395,119
+Santosh Dhaba, Hyderabad,Abids,Desserts,4.3,3.9,0,0,221.4447852760736,326
+Sarvi Restaurant, Hyderabad,Banjara Hills,Beverages,4.2,4.0,0,0,282.5925925925926,108
+Scoops Ice Cream, Hyderabad,Charminar,Pizza,3.3,4.4,6,915,133.68416666666667,120
+Shadaan Restaurant, Hyderabad,Chandrayanagutta,Hyderabadi,3.8,4.2,19,0,184.8,105
+Shah Ghouse Hotel & Restaurant, Hyderabad,Charminar,Desserts,4.2,4.2,0,0,330.80084388185657,237
+Shah Ghouse Special Shawarma, Hyderabad,Charminar,Beverages,4.3,4.1,156,0,139.25842696629215,267
+Sherton Restaurant, Hyderabad,Amberpet,Biryani,4.0,4.2,0,0,284.60176991150445,113
+Shree Santosh Family Dhaba, Hyderabad,Himayath Nagar,Beverages,4.1,4.1,182,0,222.62608695652173,230
+Siddique Kabab Centre, Hyderabad,Tolichowki,Chinese,4.4,4.1,732,0,223.6170212765957,47
+Sip & Bite, Hyderabad,Malakpet,Beverages,3.5,3.8,14,175,182.28703703703704,324
+Spice 9 Restaurant, Hyderabad,Malakpet,Seafood,3.6,3.9,30,0,259.8294930875576,217
+Subhan Bakery, Hyderabad,Nampally,Bakery,3.9,4.6,12,0,257.6190476190476,21
+Subway, Hyderabad,Malakpet,Beverages,3.8,3.8,113,0,245.1002430133657,823
+Surabhi Grand, Hyderabad,Amberpet,Beverages,3.7,4.0,434,0,324.88829787234044,188
+Swagth Hotel, Hyderabad,Charminar,Chinese,3.822264031240087,4.1,0,0,136.41666666666666,120
+Swiss Castle, Hyderabad,Abids,Fast Food,4.1,4.5,162,0,190.1813445378151,119
+Taco Bell, Hyderabad,The Next Galleria Mall,Wraps,4.3,3.7,117,0,192.5007216494845,97
+Taj Mahal - Taj Mahal Hotel, Hyderabad,Taj Mahal Hotel,Beverages,4.1,4.1,0,0,124.71559633027525,109
+The Belgian Waffle Co., Hyderabad,Attapur,Ice Cream,3.9,4.3,1,0,199.6914364640884,181
+The Burger Club, Hyderabad,Koti,Shake,3.822264031240087,3.3,0,241,130.44155844155844,77
+The Exotic Shawarma, Hyderabad,Mehdipatnam,Shawarma,3.7,4.0,44,0,180.76470588235293,51
+The Tea Planet, Hyderabad,Attapur,Coffee,3.4,3.6,0,116,105.28148148148148,135
+The Thickshake Factory, Hyderabad,Himayath Nagar,Beverages,3.4,3.8,38,0,227.53398058252424,103
+The Wrap House, Hyderabad,Malakpet,Fast Food,4.0,4.1,60,0,204.56140350877192,57
+Tibb's Frankie - Serving Rolls Since 1969, Hyderabad,MPM Mall,Rolls,3.8,4.5,93,0,79.16666666666667,12
+Tipsy Topsy Bakery, Hyderabad,Saroor Nagar,Chinese,3.8,3.9,225,0,174.9712643678161,174
+UBQ by Barbeque Nation, Hyderabad,Banjara Hills,Desserts,3.822264031240087,3.7,0,0,438.49013157894734,304
+Universal Al Mataam Mandi Kebab & Biryani, Hyderabad,Yousufguda,Kebab,3.9,3.7,288,0,244.2093023255814,129
+WOW! Momo, Hyderabad,Malakpet,Beverages,3.822264031240087,4.2,0,726,192.7151861702128,376
+Wendy's Burgers, Hyderabad,Abids,Beverages,3.822264031240087,4.1,0,0,241.7195652173913,460
+Yashwanth Pizza Den, Hyderabad,RTC X roads,Beverages,3.822264031240087,4.0,0,15,167.42696629213484,89
+Zafar's Fine Dine, Hyderabad,Tolichowki,Desserts,3.9,4.0,306,0,357.96380090497735,221
+Zaffran Mataam Alarabi, Hyderabad,Falaknuma,Desserts,4.1,4.1,482,911,805.6521739130435,23
+Zomoz - The Momo Company, Hyderabad,Abids,Fast Food,3.822264031240087,4.3,0,726,158.8067032967033,91
+Agarwal Caterers, Jaipur,Shastri Nagar,Fast Food,3.6,4.3,54,0,132.35106750392467,637
+Amma Ki Rasoi, Jaipur,MI Road,Wraps,3.822264031240087,3.3,0,571,188.5952380952381,42
+Andewalaz, Jaipur,Masala Chowk,Street Food,3.3,4.0,41,0,167.02189781021897,137
+Arham, Jaipur,Ajmer Highway,Beverages,4.1,4.1,230,0,228.8639240506329,316
+Balaji Fast Food, Jaipur,Brahmpuri,Street Food,3.8,3.4,5,708,118.0952380952381,105
+Barista Coffee, Jaipur,C Scheme,Desserts,4.1,4.0,221,441,214.12857142857143,140
+Basant Dhaba, Jaipur,Gopalpura,Beverages,3.0,3.9,142,0,204.25,208
+Bell Pepper Pizza, Jaipur,Jhotwara,Beverages,4.1,3.9,151,666,199.7311827956989,93
+Brown Sugar, Jaipur,Axis Mall,Beverages,4.1,4.2,0,0,262.4681210191083,314
+Burger Farm, Jaipur,C Scheme,Beverages,4.1,4.2,0,0,183.28481675392672,191
+Burger King, Jaipur,Pink Square Mall,Beverages,4.0,4.0,162,0,254.63289940828403,1352
+Burger Lane, Jaipur,Raja Park,Fast Food,3.822264031240087,3.5,0,343,121.009,50
+Burger Shack, Jaipur,C Scheme,Beverages,3.9,4.2,78,0,124.8360655737705,122
+Burger Singh - Big Punjabi Burgers, Jaipur,Raja Park,Fast Food,3.8,4.2,11,210,217.35655913978496,279
+Burgs & Fries, Jaipur,Raja Park,Beverages,3.822264031240087,3.9,0,0,265.3532608695652,92
+Cake Hut, Jaipur,Sodala,Desserts,3.822264031240087,3.8,0,407,800.4,50
+Captain Chick, Jaipur,Jhotwara,Fast Food,3.0,4.2,9,844,179.20289855072463,69
+Chawla's Restaurant, Jaipur,C Scheme,Chinese,4.1,4.0,411,0,358.7206477732793,247
+Chops 'N' Woks, Jaipur,Raja Park,Beverages,3.822264031240087,3.9631842584799433,0,0,238.55421686746988,83
+Choudhary Dhaba, Jaipur,Khatipura Road,Chinese,3.4,3.9,427,0,141.50222222222223,225
+Dip N Bite, Jaipur,Tonk Phatak,Beverages,3.6,3.9,9,361,135.3709677419355,62
+Domino's Pizza, Jaipur,C Scheme,Fast Food,3.1,4.0,814,0,305.0587038327526,1435
+FPF  Coffee Wale Bhaiya, Jaipur,Pink City,Beverages,3.1,4.1,9,914,144.45454545454547,99
+FPF Coffee Wale Bhaiya, Jaipur,Vidhyadhar Nagar,Beverages,3.8,4.1,12,388,147.53684210526316,95
+Firewood Pizza, Jaipur,Gopalpura,Italian,3.822264031240087,3.3,0,320,168.064,125
+Flavorsome Feasts, Jaipur,Vaishali Nagar,Beverages,3.822264031240087,3.7,0,0,280.7241379310345,145
+Friedisthan, Jaipur,Raja Park,Beverages,3.822264031240087,4.1,0,0,278.7033333333333,168
+Game Of Spices, Jaipur,Mansarovar,Sichuan,4.3,3.7,88,0,330.9105691056911,246
+Ganesh Bhojnalaya, Jaipur,Lal Kothi,North Indian,3.5,4.1,460,0,109.03370786516854,89
+Ghungroo Seth Vada Pav Company, Jaipur,Crystal Palm Mall,Fast Food,3.822264031240087,4.2,0,0,81.875,24
+Goofy's Pizza, Jaipur,Raja Park,Pizza,3.822264031240087,3.6,0,94,201.40243902439025,82
+Harishankar Veg Restro, Jaipur,Raja Park,Beverages,3.8,4.1,273,0,187.97115384615384,520
+Harishankar Veg Restro, Jaipur,Raja Park,Beverages,3.8,4.0,273,0,187.97115384615384,520
+Hil Pizza, Jaipur,C Scheme,Beverages,3.1,3.9,5,479,237.68253968253967,63
+JBT Jaipur Burger Truck, Jaipur,Vaishali Nagar,Fast Food,3.9,4.2,15,0,195.41592920353983,113
+JMD Bakery & Fast Food, Jaipur,Durgapura,Beverages,3.6,4.2,8,0,130.70224719101122,178
+Jal Mahal Ice Cream Parlour, Jaipur,MI Road,Beverages,4.1,4.4,848,0,211.8473895582329,249
+Just A Sec, Jaipur,Mansarovar,North Indian,3.822264031240087,3.6,0,512,156.8923076923077,65
+Kanha, Jaipur,C Scheme,Desserts,3.8,4.2,872,0,168.31254817987153,934
+Kanji, Jaipur,Sindhi Camp,South Indian,3.8,4.3,435,0,212.9719387755102,196
+Khandelwal Dhaba Purana Wala, Jaipur,Sikar Road,South Indian,3.9,4.0,353,0,179.23529411764707,119
+Kingdoms Pizza, Jaipur,Amer Road,Fast Food,3.5,3.7,8,592,176.65873015873015,126
+Kwality Walls Frozen Dessert And Ice Cream Shop, Jaipur,Shastri Nagar,Desserts,3.822264031240087,4.3,0,289,166.94,50
+La Pino'z Pizza, Jaipur,C Scheme,Fast Food,4.0,3.8,164,0,216.2983870967742,868
+Laziz Chicken Food Restaurant, Jaipur,Jhotwara,Chinese,4.0,3.8,335,0,203.64444444444445,90
+Laziz Pizza, Jaipur,Gopalpura,Beverages,3.8,3.9,833,0,157.94444444444446,72
+Marky Momos, Jaipur,C Scheme,Beverages,3.1,4.1,16,0,476.5212345679012,567
+McDonald's, Jaipur,Crystal Palm Mall,Beverages,3.8,4.0,726,0,264.2809762020398,2059
+Mini Punjabi, Jaipur,Sodala,Mughlai,4.0,3.7,69,0,137.33783783783784,74
+Ohh Taco, Jaipur,Gopalpura,Shake,3.822264031240087,3.3,0,37,138.75,128
+Pandit Pav Bhaji, Jaipur,C Scheme,South Indian,3.6,3.6,137,0,104.41176470588236,34
+Pizza And Burger King, Jaipur,Brahmpuri,Beverages,3.9,3.7,4,839,209.6694214876033,121
+Pizza Baker's, Jaipur,Raja Park,Pizza,4.2,4.0,29,0,234.10698924731184,93
+Pizza Bar, Jaipur,Sodala,Fast Food,3.5,3.9,8,607,256.542463768116,69
+Pizza Bites, Jaipur,Sodala,Fast Food,3.5,3.9,7,0,251.6715286624204,157
+Pizza Hut, Jaipur,MI Road,Beverages,3.6,3.8,782,0,287.27036211699163,1077
+Pizza Unlimited, Jaipur,Pink City,Beverages,3.0,3.6,14,0,140.80672268907563,119
+Punjabi Tadka, Jaipur,Malviya Nagar,Mughlai,3.8,3.8,196,0,200.4192307692308,156
+RJ Chai Wala, Jaipur,Jhotwara,Street Food,3.822264031240087,4.1,0,267,48.15,100
+RR62 - Cafe & Kitchen, Jaipur,Pink City,Beverages,4.2,3.8,177,0,206.9160305343512,131
+Rawat Mishthan Bhandar, Jaipur,Sindhi Camp,Street Food,3.822264031240087,4.2,0,213,176.4448669201521,263
+Roll Express, Jaipur,C Scheme,Rolls,3.822264031240087,4.0,0,0,221.2676056338028,71
+RollsKing, Jaipur,Raja Park,Beverages,3.822264031240087,4.2,0,229,211.08783783783784,74
+Rominus Pizza And Burger, Jaipur,C Scheme,Fast Food,3.7,4.0,35,0,307.86444924406044,463
+Roop Basant Pavitra Bhojnalaya, Jaipur,Gopalbari,Beverages,3.2,3.9,126,0,113.5897435897436,117
+Sai Chaap Soya, Jaipur,Ajmer Highway,Rolls,3.8,3.4,7,602,154.17094736842105,95
+Sardaar Ji Chicken Co., Jaipur,Malviya Nagar,Bbq,2.8,3.6,10,0,339.92424242424244,198
+Sethi Bar-Be-Que, Jaipur,Bani Park,Rolls,3.822264031240087,4.0,0,0,330.2021857923497,183
+Shofu - The Momo Man, Jaipur,Lal Kothi,Beverages,4.2,4.2,104,0,192.8987341772152,79
+Shri Shyam Bhature Wala, Jaipur,Vaishali Nagar,North Indian,3.822264031240087,4.2,0,0,110.82142857142856,28
+Sodhani Sweets And Namkeen, Jaipur,Gopalpura,Street Food,3.7,4.3,8,0,196.47593333333333,150
+Sodhani Sweets Pvt. Ltd., Jaipur,Bapu Nagar,Mithai,3.822264031240087,4.4,0,0,198.1197575757576,165
+St. Louis Pizza, Jaipur,Bais Godam,Beverages,3.822264031240087,3.4,0,225,198.81944444444449,144
+Subway, Jaipur,C Scheme,Beverages,4.1,3.9,608,0,245.1002430133657,823
+Swadesi Station, Jaipur,Bais Godam,Hyderabadi,3.822264031240087,4.1,0,743,237.7704918032787,122
+Swat Pizza, Jaipur,Sodala,Beverages,4.0,3.9,105,0,252.0405405405405,74
+Talk Of The Town, Jaipur,MI Road,Biryani,4.1,4.2,0,0,378.12820512820514,156
+Tan-Sukh By Kanha, Jaipur,C Scheme,Desserts,4.1,4.1,301,0,231.99630996309963,271
+Tapri Pratham, Jaipur,Lal Kothi,Beverages,4.1,4.3,692,0,232.29357798165137,109
+Thali and More, Jaipur,C Scheme,Beverages,4.7,4.1,0,0,266.71154285714283,175
+The Busy Beans, Jaipur,Raja Park,Burger,3.9,3.7,65,691,167.99894736842106,95
+The Messy Door, Jaipur,Shastri Nagar,Beverages,4.2,4.0,901,0,215.7483870967742,155
+The Momoz Hub, Jaipur,C Scheme,Beverages,3.822264031240087,4.0,0,183,280.30857142857144,700
+The Pizza Station, Jaipur,Jhotwara,Chinese,4.0,4.0,119,0,206.4948453608248,97
+The Pizza Unlimited, Jaipur,Pink City,Street Food,3.4,4.0,550,0,265.88652482269504,141
+The Waffle Bite, Jaipur,Bais Godam,Fast Food,3.822264031240087,4.1,0,168,124.22388059701493,134
+The Yellow House - The Robot Restaurant, Jaipur,C Scheme,Beverages,3.9,3.3,0,0,327.6770833333333,96
+Tipsy Restaurant, Jaipur,Vidhyadhar Nagar,South Indian,3.7,4.1,169,0,201.4245810055866,179
+U & Me Soya Chaap, Jaipur,Raja Park,North Indian,2.9,4.1,7,0,161.77966101694915,59
+Unlimited Pizza & Fast Food Corner, Jaipur,Pink City,Street Food,3.822264031240087,4.0,0,59,267.9193548387097,124
+Unlimited Pizza and Fast Food Corner, Jaipur,Amer Road,Street Food,3.822264031240087,3.9,0,56,115.08333333333331,72
+Vaishnav Dhaba, Jaipur,Gopalpura,South Indian,3.822264031240087,3.9,0,0,169.92727272727274,110
+Victorian Bakery, Jaipur,Jawahar Nagar,Street Food,3.822264031240087,4.1,0,0,99.45736434108528,129
+12 To 12 BBQ, Kochi,Panampilly Nagar,Biryani,4.0,4.0,104,0,273.3641975308642,162
+Al Taza, Kochi,Kaloor,Beverages,4.4,4.4,367,0,173.8235294117647,34
+Arabian Dreams, Kochi,Kadavanthra,Shawarma,2.9,3.6,11,0,158.81379310344826,145
+Baskin Robbins - Ice Cream Desserts, Kochi,Centre Square Mall,Beverages,3.822264031240087,4.4,0,487,209.98577142857144,175
+Baskin Robbins - Ice Cream Desserts, Kochi,Centre Square Mall,Beverages,3.822264031240087,4.5,0,488,209.98577142857144,175
+Bektash Turkishcafe, Kochi,Marad,Kebab,4.2,4.2,621,0,153.69346733668343,199
+Bektash Turkishcafe, Kochi,Chittoor Road,Juices,4.2,4.1,266,0,153.69346733668343,199
+Beyondburg Inc, Kochi,Palarivattom,Continental,3.9,4.4,14,0,306.4833333333333,60
+Big Fat Momo, Kochi,Kacheripady,Fast Food,4.3,4.1,426,0,140.9746835443038,158
+Biriyani Bash, Kochi,Vyttila,Biryani,3.6,3.1,7,870,183.3783783783784,37
+Buhari Special Juice, Kochi,Palarivattom,Beverages,4.0,4.3,74,0,85.625,32
+Burger King, Kochi,MG Road,Beverages,3.9,4.2,755,0,254.63289940828403,1352
+Burger Spot, Kochi,GCDA Shopping Complex,Beverages,3.9,3.8,7,801,286.8151260504202,119
+Burgeria, Kochi,Kaloor,Beverages,4.0,4.3,29,0,233.27777777777777,54
+CEE YEM Bakers, Kochi,Palluruthy,Mandi,2.7,3.6,6,845,121.15315315315316,111
+Cafe 17, Kochi,Ravipuram,Beverages,4.6,4.1,259,0,276.1375661375661,189
+Cafe Durbar AFC, Kochi,Pallimukku,Beverages,3.8,3.7,36,0,202.01734693877552,196
+Calicut Notebook, Kochi,Kaloor,Biryani,3.9,4.0,121,0,249.0986842105264,152
+Ceylon Bake House, Kochi,Marine Drive,Rolls,4.0,3.7,415,0,271.7842465753425,292
+Cups & Cones, Kochi,Vyttila,Beverages,4.1,4.0,70,0,171.33333333333334,150
+Dindigul Thalappakatti, Kochi,Panampilly Nagar,Beverages,3.822264031240087,4.0,1,0,322.4486206896552,145
+Domino's Pizza, Kochi,Ravipuram,Desserts,3.2,3.7,367,0,305.0587038327526,1435
+Donut Factory, Kochi,Panampilly Nagar,Beverages,3.9,4.1,381,0,228.5493827160494,162
+Dream Cutlets, Kochi,Fort Kochi,Fast Food,3.822264031240087,4.6,0,449,51.18518518518518,27
+Empire Plaza, Kochi,Marad,South Indian,3.3,3.6,69,0,218.7078189300412,243
+FFC, Kochi,Palarivattom,Burger,3.822264031240087,3.7,2,951,283.0123456790124,81
+Falooda Nation, Kochi,Kaloor,Beverages,3.6,3.9,12,0,200.1386138613861,101
+Firebirds, Kochi,Palarivattom,Beverages,3.822264031240087,4.3,1,80,194.0625,32
+Gokul Oottupura, Kochi,Pallimukku,Shake,4.0,4.0,73,0,166.63291139240508,158
+Golden Dragon, Kochi,Ravipuram,Desserts,4.0,4.2,248,0,257.59071729957805,237
+Grameen Kulfi, Kochi,Panampilly Nagar,Desserts,3.822264031240087,4.3,0,88,105.47714285714288,28
+Haji Ebrahim, Kochi,Kaloor,Juices,3.8,4.1,49,0,104.375,72
+Hotel Topform, Kochi,Thopumpady,Shake,3.822264031240087,3.9,0,0,229.1551724137931,174
+Hoy Punjab, Kochi,Kacheripady,Beverages,4.3,3.7,163,596,434.66584507042256,142
+Jugos, Kochi,Palluruthy,Beverages,3.822264031240087,4.0,2,477,124.65,100
+Juicy, Kochi,Thopumpady,Desserts,4.0,4.3,0,269,113.94736842105264,76
+KFC, Kochi,Centre Square Mall,Beverages,3.9,4.1,465,0,349.67315579227693,751
+Kunafa World, Kochi,Panampilly Nagar,Desserts,3.8,4.4,11,751,438.9795918367347,49
+Let's Eat Bakers, Kochi,Panampilly Nagar,Sandwich,3.822264031240087,4.4,0,0,177.87974683544303,158
+Madheena Fried Chicken, Kochi,Elamakkara,Biryani,3.822264031240087,3.8,0,203,420.46153846153845,13
+Manchatti Restaurant, Kochi,Ernakulam City,Desserts,3.0,3.0,4,279,284.5820895522388,67
+McDonald's, Kochi,MG Road,Desserts,3.6,4.0,264,0,264.2809762020398,2059
+Meera's Kitchen, Kochi,MG Road,Biryani,3.1,3.2,9,0,209.93859649122808,114
+Meltyway, Kochi,Mattancherry,Fast Food,4.2,3.5,68,657,151.87573964497042,169
+NIC Ice Creams, Kochi,Panampilly Nagar,Desserts,3.822264031240087,4.4,0,0,196.3634210526316,228
+Nellikka Cloud Kitchen, Kochi,Kaloor,Kerala,3.822264031240087,4.3,0,0,72.3913043478261,23
+Nellikka Restaurant, Kochi,Kadavanthra,Kerala,3.6,4.4,2,0,76.85185185185185,27
+P60, Kochi,Panampilly Nagar,Desserts,4.3,4.0,486,0,237.3571428571429,42
+Pai Brothers 36 Varities Of Dosa, Kochi,Kadavanthra,Kerala,3.7,4.0,138,0,139.02061855670104,194
+Pai Brothers Fast Food, Kochi,MG Road,Street Food,4.1,4.2,528,0,141.9387755102041,196
+Paputty's Valsa Cafe, Kochi,Kacheripady,Chinese,4.0,4.0,62,0,133.8913043478261,46
+Payasam Kada - Taste Trees, Kochi,Palarivattom,Desserts,3.8,4.1,35,0,168.88888888888889,9
+Pitaworks, Kochi,Kacheripady,Fast Food,3.6,4.1,12,471,197.625,16
+Pizza Hut, Kochi,Centre Square Mall,Beverages,3.7,3.4,390,0,287.27036211699163,1077
+Pizza Ricotta, Kochi,Thopumpady,Fast Food,3.822264031240087,2.5,0,7,306.6666666666667,21
+Pizzaman, Kochi,Edappally,Beverages,2.8,4.0,7,479,345.5360824742268,97
+Porkeato De Portico, Kochi,Palarivattom,South Indian,3.6,4.0,11,321,250.8333333333333,48
+Quick Snacks, Kochi,Kadavanthra,Beverages,3.7,3.4,45,0,126.48101265822784,79
+Raw Squeezed, Kochi,Vyttila,Salad,3.822264031240087,4.4,3,0,208.75,116
+Real Arabia, Kochi,Palarivattom,Juices,4.0,3.5,291,0,235.32453416149067,161
+Rizo Resto, Kochi,Kacheripady,Shake,3.9,4.3,5,124,199.36666666666667,90
+Rumaan Restaurant, Kochi,Kaloor,Beverages,3.4,3.7,14,0,138.6086956521739,46
+Salkara Xpress By Paragon Group, Kochi,Vyttila,South Indian,3.822264031240087,4.2,0,0,167.66666666666666,6
+Shap Food Restaurant, Kochi,Vyttila,Biryani,3.5,3.8,53,874,228.1095890410959,73
+Shawarma Daddy, Kochi,Edappally,Beverages,3.6,4.0,44,0,176.88974358974357,39
+Sheikh Shawarma, Kochi,Kadavanthra,Kerala,3.822264031240087,3.7,3,220,179.96062992125985,127
+Sijis Pizza Street, Kochi,Edappally,Fast Food,3.8,4.1,41,0,345.05123456790125,81
+Sukumar Food Court, Kochi,Tripunithura,Sichuan,3.9,3.6,70,0,62.888888888888886,9
+Tea Shack, Kochi,Palarivattom,Ice Cream,3.822264031240087,3.9631842584799433,0,0,35.833333333333336,12
+Tellicherry Kitchen, Kochi,Vennala,Fast Food,3.822264031240087,3.8,0,0,299.09589041095893,146
+Thaal Kitchen, Kochi,MG Road,Fast Food,4.1,3.7,126,0,162.81372549019608,306
+The Hearth Kitchen, Kochi,Panampilly Nagar,Pizza,3.9,4.2,4,629,392.4509803921569,51
+UBQ by Barbeque Nation, Kochi,Kacheripady,Desserts,3.822264031240087,3.6,0,0,438.49013157894734,304
+Woodys Brook, Kochi,Palarivattom,Shake,3.822264031240087,4.0,0,0,294.75,28
+Arsalan, Kolkata,Park Street Area,Seafood,3.9,4.2,0,0,375.5323383084577,201
+Balaram Mullick & Radharaman Mullick Sweets, Kolkata,Theatre Road,Pizza,3.3,4.5,6,0,116.05035971223022,139
+Barbeque Nation, Kolkata,New Market Area,Desserts,4.2,3.7,267,705,656.7478991596639,119
+Barista Coffee, Kolkata,New Market Area,Desserts,3.2,3.9,290,272,214.12857142857143,140
+Baskin Robbins Happyness Shakes, Kolkata,Girish Park,Beverages,3.6,4.2,0,8,242.3684210526316,19
+Behrouz Biryani, Kolkata,Beliaghata,Pizza,3.822264031240087,4.1,0,0,609.2972972972973,333
+Burger In Law, Kolkata,Kasba,Pizza,3.822264031240087,4.1,0,0,197.9,40
+Burger King, Kolkata,New Market Area,Beverages,4.2,4.0,729,0,254.63289940828403,1352
+Chowman, Kolkata,Hatibagan,Beverages,4.4,4.1,882,0,291.8337874659401,367
+Domino's Pizza, Kolkata,Entally,Fast Food,3.9,3.9,563,0,305.0587038327526,1435
+Dreams Cafe, Kolkata,Sector 4,Pizza,3.822264031240087,3.7,3,0,161.65322580645162,124
+Eagle Bites Pizza, Kolkata,Ruby Hospital Area,Pizza,4.3,4.0,0,0,217.16438356164383,146
+Edabba, Kolkata,Esplanade,Pizza,3.822264031240087,3.9,0,0,185.5191256830601,183
+Fried Chicken Wala, Kolkata,Shibpur,Pizza,4.0,4.0,244,0,209.92857142857144,196
+Golden Joy, Kolkata,Tangra,Pizza,4.2,4.2,0,0,228.11320754716985,53
+Goutam's, Kolkata,Sector 1,Pizza,2.9,3.6,553,0,140.2941176470588,136
+Grab Feast, Kolkata,Topsia,Pizza,3.822264031240087,3.7,0,461,111.0,46
+HFC, Kolkata,Das Naagar,Pizza,3.9,3.9,1,270,193.06666666666663,15
+Hatari, Kolkata,Bow Bazar,Pizza,3.8,4.2,43,166,357.1123595505618,356
+I Love Haldiram, Kolkata,Park Street Area,Pizza,3.4,3.6,120,0,78.40600961538462,208
+KFC, Kolkata,Sealdah Area,Beverages,4.1,4.1,181,0,349.67315579227693,751
+Kathi Junction, Kolkata,Lake Town,Pizza,3.6,4.3,15,0,144.8913043478261,46
+Keventers - Milkshakes & Desserts, Kolkata,New Market Area,Desserts,3.4,4.1,5,0,224.39866492146595,382
+Khana Khazana, Kolkata,Dobson Road,Pizza,4.0,3.9,538,0,225.16501650165017,303
+Kreamz, Kolkata,Hatibagan,Pizza,3.7,3.9,3,12,65.21153846153847,52
+Kwality Wall's Frozen Dessert And Ice Cream Shop, Kolkata,College Street,Ice Cream,3.822264031240087,4.4,0,474,182.5609756097561,41
+La Pino'z Pizza, Kolkata,Kankurgachi,Fast Food,3.6,3.8,26,944,216.2983870967742,868
+Lazeez Biryani, Kolkata,Entally,Pizza,3.6,3.7,728,0,202.3181818181818,44
+Mama Mia!, Kolkata,Entally,Pizza,3.822264031240087,4.4,0,0,320.02962962962965,135
+Mezban, Kolkata,Wellesley,Pizza,3.8,3.9,0,0,235.9668874172185,151
+Mitra Cafe, Kolkata,Shobha Bazar,Pizza,4.3,4.5,0,0,294.375,16
+Momo I Am, Kolkata,City Centre 1,Pizza,4.4,4.3,0,0,310.2835051546392,194
+New Paul Dhaba Veggie Hub, Kolkata,Maniktala,Pizza,3.9,4.0,447,0,183.7219512195122,205
+Noodle King, Kolkata,Picnic Garden,Pizza,3.822264031240087,3.7,0,0,180.7792207792208,154
+Oudh 1590, Kolkata,Sector 1,Desserts,4.2,4.1,0,0,348.9779005524862,181
+Oudh 1590, Kolkata,Sector 1,Pizza,4.2,4.1,0,0,348.9779005524862,181
+Peaberrys, Kolkata,Esplanade,Pizza,3.822264031240087,4.3,0,77,278.6363636363636,99
+Pizza Hut, Kolkata,Esplanade,Fast Food,3.822264031240087,3.7,0,30,287.27036211699163,1077
+Pizza Wala, Kolkata,Shalimar,Pizza,3.822264031240087,3.7,0,0,231.7619047619048,42
+Raasta Cafe, Kolkata,Dobson Road,Pizza,4.0,4.0,450,0,135.41525423728814,236
+Raffs F9, Kolkata,Ultadanga,Pizza,3.7,3.7,0,10,197.06796116504853,103
+Rang De Basanti Dhaba, Kolkata,Kankurgachi,Pizza,4.2,4.1,506,0,244.6978021978022,182
+Rollick, Kolkata,Park Street Area,Pizza,4.0,4.3,444,0,137.29090909090908,55
+Rosy Roti, Kolkata,Kankurgachi,Pizza,3.822264031240087,4.2,0,337,170.46938775510205,98
+Roy Dhaba, Kolkata,Picnic Garden,Pizza,3.2,3.9,11,0,203.4808743169399,183
+Roy Pizza House, Kolkata,Sector 4,Pizza,3.822264031240087,3.7,0,0,183.85321100917432,109
+Royal Indian Hotel  - Since 1905, Kolkata,Bara Bazar,Pizza,4.2,4.1,0,0,301.90140845070425,71
+Safe House, Kolkata,Sector 4,Pizza,3.822264031240087,3.6,0,0,176.68421052631578,114
+Saima Restaurant, Kolkata,Chowringhee,Pizza,3.4,4.1,428,0,142.5109489051095,137
+Shawarma Nation, Kolkata,City Centre 1,Pizza,4.0,4.3,176,0,238.29032258064515,93
+Sher-E-Punjab, Kolkata,Theatre Road,Pizza,3.3,3.7,310,0,274.80645161290323,310
+Shiraz Golden Restaurant, Kolkata,Park Street Area,Pizza,4.1,4.0,0,0,273.21276595744683,141
+Sip 'N' Bite's, Kolkata,Dobson Road,Pizza,3.822264031240087,3.7,1,0,162.392,125
+Subway, Kolkata,Theatre Road,Beverages,3.7,4.2,181,0,245.1002430133657,823
+Super Star Hazi Biryani, Kolkata,Sector 4,Pizza,3.3,3.4,34,0,169.24324324324326,37
+Taj Biryani, Kolkata,Entally,Pizza,3.9,3.6,427,0,142.28,25
+Tea Junction, Kolkata,New Market Area,Pizza,3.1,3.9,109,680,203.5185185185185,54
+The Bahubelly, Kolkata,Kankurgachi,Pizza,3.4,3.8,98,0,297.42424242424244,132
+The Biryani Inc., Kolkata,Kasba,Pizza,3.822264031240087,4.1,0,0,233.8090909090909,110
+The Burping Panda, Kolkata,Park Circus Area,Pizza,3.822264031240087,3.9,0,0,151.44979919678715,249
+Veggie Corner, Kolkata,Liluah,Pizza,3.8,3.9,553,0,144.56896551724137,174
+WFC - Wow Fried Chicken, Kolkata,Dum Dum,Pizza,3.1,3.8,66,0,199.9090909090909,44
+WOW! China, Kolkata,Park Street Area,Desserts,4.4,3.8,0,0,256.0793926247289,461
+WOW! Momo, Kolkata,Sealdah Area,Fast Food,3.7,4.2,66,0,192.7151861702128,376
+Zam Zam Restaurant, Kolkata,Park Circus Area,Pizza,4.2,4.3,0,0,174.32380952380953,105
+Al Baik Xpress, Lucknow,Khurram Nagar,Sandwich,3.2,3.6,97,0,217.9406779661017,118
+Alibaba, Lucknow,Khurram Nagar,Momos,3.822264031240087,3.9,0,0,141.64444444444445,90
+Balle Balle Delhi Wale Soya Chaap Zone, Lucknow,Gomti Nagar,Street Food,4.1,4.0,214,0,175.87777777777777,90
+Billu Tandooria, Lucknow,Gomti Nagar,Fast Food,4.2,4.1,28,0,221.10884353741497,147
+Bombay Natural's Pizza & Soya Chaap, Lucknow,Hazratganj,Street Food,4.1,3.7,58,0,173.96907216494844,97
+Chung Fa Restaurant, Lucknow,Mahanagar,Fast Food,4.1,4.0,586,355,369.9465240641711,187
+Craving Bites, Lucknow,Rajajipuram,Street Food,3.822264031240087,3.7,0,0,140.47368421052633,95
+D Pizza Club, Lucknow,Rajajipuram,Desserts,3.9,3.8,488,0,232.8828125,128
+Dastarkhwan, Lucknow,Kaiserbagh,Awadhi,4.5,4.0,0,0,200.125,56
+Deva Food Mart, Lucknow,Aliganj,North Indian,4.0,4.4,560,0,190.2032520325204,123
+Goli Vadapav No.1, Lucknow,Aliganj,Beverages,2.8,4.2,56,975,138.77777777777777,27
+Grandson Of Tunday Kababi, Lucknow,Sahara Ganj Mall,Biryani,4.0,3.7,443,0,201.62222222222223,45
+Home Town Pizza, Lucknow,Triveni Nagar,Pizza,3.822264031240087,3.9,0,65,101.07894736842104,38
+Hot Pizza Ace, Lucknow,Gomti Nagar,Shake,3.822264031240087,3.6,0,0,214.59375,192
+Hotel Lazeez Al Darbar, Lucknow,Chowk,Biryani,4.0,4.0,330,0,138.90196078431373,51
+Kuduk Chicken, Lucknow,Chowk,Burger,3.9,4.1,60,0,308.76666666666665,180
+Kuduk Chicken, Lucknow,Gomti Nagar,Fast Food,4.2,4.1,309,869,308.76666666666665,180
+LA'Pizza Club, Lucknow,Jankipuram,Beverages,3.822264031240087,4.0,0,0,157.10256410256412,39
+Lalla Biryani - Since 1985, Lucknow,Chowk,Mughlai,3.822264031240087,4.0,0,0,140.83333333333334,6
+Madhurima Veg, Lucknow,Gomti Nagar,Beverages,4.0,4.2,897,0,258.9361111111112,270
+Maharaja Restaurant, Lucknow,Charbagh,Chinese,3.2,3.5,67,0,167.98507462686567,201
+Mishra Bhojanalaya, Lucknow,Chowk,Chinese,3.8,3.7,94,0,97.97391304347826,115
+Mr. Brown - Danbro, Lucknow,Nirala Nagar,Coffee,3.822264031240087,4.2,0,789,245.0159340659341,273
+Muradabadi Chicken Biryani, Lucknow,Chowk,Biryani,3.7,3.8,17,0,280.7368421052632,19
+Neelkanth Sweets, Lucknow,Gomti Nagar,Beverages,4.2,4.3,779,0,287.5467032967033,364
+Nukkad Cafe, Lucknow,Aliganj,Beverages,3.822264031240087,4.2,0,0,92.4,60
+Old Al - Baik, Lucknow,Lalbagh,Beverages,3.822264031240087,3.9,0,773,167.78787878787878,66
+PVR Café, Lucknow,Hazratganj,Beverages,3.822264031240087,4.0,0,65,232.39493827160496,81
+Pawan Sweet & Bhojnalay, Lucknow,Indira Nagar,Chinese,3.3,3.9,13,0,191.06024096385545,83
+Pizza Cave, Lucknow,Chowk,Beverages,3.7,4.1,205,0,192.05194805194805,77
+Pizza Pandey, Lucknow,Gomti Nagar,Fast Food,3.822264031240087,3.4,0,345,205.87755102040816,49
+Pizza Pie, Lucknow,Rajajipuram,Pizza,3.822264031240087,3.7,0,870,246.13953488372093,86
+Pizza Pool, Lucknow,Rajajipuram,Pasta,4.2,4.0,71,0,174.4,65
+Pizza Potter, Lucknow,Aliganj,Pizza,4.2,3.8,70,0,171.26315789473685,38
+Pizza Wizza, Lucknow,Rajajipuram,Pizza,3.822264031240087,3.8,0,0,143.56565656565655,99
+Pizzaport & Cafe, Lucknow,Aliganj,Burger,3.8,3.8,448,0,255.11510791366908,139
+Pizzatarian, Lucknow,Aliganj,American,3.9,3.7,4,48,247.5,40
+Radhey Lal Sweets, Lucknow,Aliganj,Chinese,3.4,4.1,261,0,304.848,140
+Rattilal's - Sitapur Road, Lucknow,Aliganj,Desserts,3.2,3.7,69,0,127.0720430107527,93
+Richi Rich, Lucknow,Aliganj,Street Food,3.5,4.1,320,0,284.1481481481481,216
+Roasties, Lucknow,Chowk,Biryani,3.7,3.8,24,221,190.1153846153846,52
+Rolls Mania, Lucknow,Gomti Nagar,North Indian,3.822264031240087,3.9,0,0,200.80438902743143,401
+Rominus Pizza And Burger, Lucknow,Jopling Road,Fast Food,4.1,4.1,149,0,307.86444924406044,463
+Royalz Pepper, Lucknow,Aliganj,Desserts,3.6,3.8,245,532,153.63636363636363,22
+Sharma Chai, Lucknow,Lalbagh,Street Food,3.822264031240087,4.2,0,0,96.58594339622644,106
+Sharma Ji Ki Chai, Lucknow,Lalbagh,Tea,3.822264031240087,4.4,0,0,61.42857142857143,14
+Spice Village, Lucknow,Gomti Nagar,Street Food,4.2,3.8,108,0,234.4820143884892,278
+The American Pizza, Lucknow,Indira Nagar,Beverages,3.2,3.6,45,0,153.7605633802817,71
+The Dastarkhan, Lucknow,Indira Nagar,North Indian,3.822264031240087,3.8,0,0,310.5952380952381,42
+The Diamond Pizza & Chinese Point, Lucknow,Jankipuram,Fast Food,3.8,3.6,6,57,137.4,65
+The Garam Chulha, Lucknow,Aliganj,Chinese,3.822264031240087,4.1,0,878,187.76470588235293,119
+The Hazelnut Factory, Lucknow,Nirala Nagar,Bakery,4.3,4.4,780,0,388.6057142857143,301
+The Kalika Hut, Lucknow,Hazratganj,Fast Food,3.5,3.7,12,0,271.1688311688312,231
+The Oven, Lucknow,Nirala Nagar,Fast Food,4.2,3.9,491,0,323.7936507936508,63
+Tuday Kebabi, Lucknow,Aliganj,Biryani,3.822264031240087,3.2,0,616,142.6829268292683,82
+Vadilal Ice Creams, Lucknow,Indira Nagar,Beverages,3.822264031240087,3.9,0,56,253.68421052631572,57
+Wat-a-Burger! - India ka Burger, Lucknow,Hazratganj,Beverages,3.8,4.0,71,0,286.89969696969695,330
+Zeeshan Biryani Corner, Lucknow,Lalbagh,Biryani,3.7,4.0,195,0,161.44736842105263,38
+Keventers Ice Cream, Magrath Road,Garuda Mall,Desserts,3.5,3.7,0,112,226.7698148148148,54
+Rajdhani, Malleshwaram,Mantri Square,Rajasthani,4.0,4.0,746,0,196.86046511627907,43
+1441 Pizzeria, Mumbai,Sion,Desserts,3.822264031240087,4.0,0,0,349.87466666666666,135
+99 Pancakes, Mumbai,Matunga East,Beverages,3.8,4.1,92,659,219.3475,188
+Annamaya, Mumbai,Byculla,Beverages,4.3,4.1,187,952,257.78969957081546,233
+Apoorva Delicacies, Mumbai,Dadar Shivaji Park,Beverages,3.8,4.1,654,0,244.67391304347825,460
+Aromas Cafe & Bistro, Mumbai,Linking Road,Beverages,4.3,4.0,0,0,364.98776758409787,327
+Art Of Dum, Mumbai,Worli,Beverages,3.822264031240087,4.4,0,0,531.2772277227723,101
+BOX8 - Desi Meals, Mumbai,Wadala,Beverages,3.822264031240087,4.1,0,0,247.0261780104712,191
+Biryani By Kilo, Mumbai,Khar,Kebab,3.822264031240087,4.2,0,0,441.7725,84
+Blue Tokai Coffee Roasters, Mumbai,Mahalaxmi,Desserts,4.3,4.1,265,0,293.99621276595747,235
+Boojee Cafe, Mumbai,Carter Road,Desserts,4.5,4.3,319,0,347.69633507853405,191
+Burger King, Mumbai,Dadar West,Beverages,3.3,4.0,812,0,254.63289940828403,1352
+Casa Blanca, Mumbai,Byculla,Continental,3.822264031240087,3.6,0,0,355.0547244094488,508
+Chaitanya, Mumbai,Dadar West,Beverages,4.5,4.4,0,0,236.91011235955057,89
+Charcoal Eats - Biryani & Beyond, Mumbai,Dadar East,Rolls,3.822264031240087,4.1,0,0,527.5478048780487,123
+Cheelizza - India Ka Pizza, Mumbai,Worli,Fast Food,3.822264031240087,3.9,0,333,324.2870813397129,209
+Chitale Xpress, Mumbai,Prabhadevi,Beverages,3.822264031240087,4.3,0,108,105.112,125
+Chote Nawab, Mumbai,Chembur,Sichuan,4.0,3.6,668,0,264.69182389937106,318
+Dadar Social, Mumbai,Dadar West,Beverages,4.3,4.0,244,193,353.7068965517241,116
+Delhi Zaika, Mumbai,Mahim,Beverages,3.8,3.6,327,0,428.10277777777776,360
+Dimsum Momo Express, Mumbai,Chembur,Chinese,3.9,3.8,0,3,222.6614583333333,192
+Domino's Pizza, Mumbai,Matunga West,Fast Food,2.8,3.6,33,0,305.0587038327526,1435
+Dum Safar Biryani, Mumbai,Dadar Shivaji Park,Desserts,3.822264031240087,3.9,0,79,663.3594470046083,217
+Faasos - Wraps & Rolls, Mumbai,Wadala,North Indian,3.822264031240087,4.0,0,0,298.8417980295567,406
+Firangi Bake, Mumbai,Wadala,Mexican,3.822264031240087,4.1,0,737,330.7529411764706,85
+Flavours Of China, Mumbai,Dadar West,Seafood,4.2,4.0,395,0,336.7575757575757,330
+Food Adda, Mumbai,Lower Parel,Beverages,3.9,3.8,30,36,208.2,125
+Food Darzee, Mumbai,Lower Parel,Biryani,3.822264031240087,3.7,0,309,349.7439024390244,82
+Francescos Pizzeria, Mumbai,Dadar West,Fast Food,3.822264031240087,3.9,0,329,510.56,75
+FreshMenu, Mumbai,Sion,Chinese,3.822264031240087,3.9,0,662,259.40474020054694,1097
+Fuel Up, Mumbai,Khar,Beverages,4.0,4.2,102,0,247.74496644295303,149
+Go Biryan, Mumbai,Lower Parel,Rolls,3.822264031240087,3.9,0,0,391.48223880597016,134
+Gokul Refreshment, Mumbai,Hill Road,Beverages,4.2,4.1,337,0,182.07692307692307,208
+HRX by EatFit, Mumbai,Lower Parel,Salad,3.822264031240087,4.3,0,144,269.6533333333333,75
+Haka, Mumbai,Khar,Sichuan,3.822264031240087,3.9,0,804,303.77953488372094,86
+Hello Burger's, Mumbai,Kurla,Sichuan,3.822264031240087,4.0,0,83,106.66666666666669,111
+Hot N Spicy, Mumbai,Worli,Sichuan,3.822264031240087,3.6,0,0,130.58139534883722,86
+Hundo Pizza, Mumbai,Khar,American,3.822264031240087,4.1,0,0,316.140350877193,57
+Italian Bay, Mumbai,Bandra Kurla Complex,Beverages,3.822264031240087,4.2,0,911,325.8979591836735,147
+Jhakas Family Restaurant, Mumbai,Wadala,Sichuan,3.822264031240087,3.7,0,668,345.86770428015564,257
+Jimis Burger, Mumbai,Pali Hill,Beverages,4.3,4.2,529,859,274.45631067961165,103
+Juno's Pizza - Baking Fresh Since 1974, Mumbai,Lower Parel,Beverages,4.2,3.8,0,0,295.1904761904762,126
+KFC, Mumbai,Dadar Shivaji Park,Desserts,3.822264031240087,3.7,0,0,349.67315579227693,751
+La Pino'z Pizza, Mumbai,Matunga East,Pasta,3.822264031240087,4.0,0,0,216.2983870967742,868
+LeanCrust Pizza - ThinCrust Experts, Mumbai,Sion,Beverages,3.822264031240087,4.5,0,238,410.1214953271028,107
+Mainland China, Mumbai,Lower Parel,Sichuan,3.822264031240087,4.1,0,643,550.2136585365853,164
+Maiz Mexican Kitchen, Mumbai,Lower Parel,Salad,3.822264031240087,4.0,0,0,291.5304347826087,115
+McDonald's, Mumbai,Star Mall,Beverages,3.6,4.0,0,0,264.2809762020398,2059
+Meal Bowl, Mumbai,Lower Parel,Sichuan,3.822264031240087,4.0,0,0,230.8142857142857,140
+Mealful Rolls - India's Biggest Rolls, Mumbai,Wadala,Beverages,3.822264031240087,4.0,0,556,233.34782608695653,69
+Momo Guy, Mumbai,Worli,Momos,3.822264031240087,3.4,0,535,185.68965517241372,145
+Mughlai Affair, Mumbai,Chembur,Rolls,3.822264031240087,3.6,0,0,196.64642857142857,280
+Naadbramha Idli, Mumbai,Kurla,South Indian,3.8,4.0,0,0,86.0,10
+New Pankaj - Sandwich & Pani Puri, Mumbai,Matunga East,Beverages,3.822264031240087,4.2,0,0,189.75352112676052,142
+Nino Burgers, Mumbai,Dadar West,Fast Food,3.822264031240087,4.0,0,296,328.67164179104475,67
+One By Two, Mumbai,Prabhadevi,Momos,3.822264031240087,4.0,0,0,227.94117647058823,85
+Ovenfresh, Mumbai,Dadar Shivaji Park,Beverages,4.4,4.3,0,0,302.5463703703704,270
+Oye Kiddan, Mumbai,Matunga East,Desserts,3.822264031240087,3.4,0,0,157.22875816993465,153
+Pizza Hut, Mumbai,Dadar West,Fast Food,3.2,3.7,81,0,287.27036211699163,1077
+PizzaExpress, Mumbai,Wadala,Beverages,3.822264031240087,3.9631842584799433,0,0,539.0161616161616,99
+Potoba, Mumbai,Dadar West,Beverages,3.9,3.9,428,0,185.96022727272728,176
+Raj Restaurant, Mumbai,Chembur,Biryani,3.8,4.1,345,0,354.2018018018018,555
+SLAY Coffee, Mumbai,Worli,Shake,3.822264031240087,3.9,0,0,245.5465168539326,89
+SP Burger, Mumbai,Chembur,Sichuan,3.9,4.1,130,0,92.81976744186046,86
+Sahara Family Restaurant, Mumbai,Chembur,Sichuan,3.3,3.8,4,507,336.98425196850394,254
+Shivsu Pizza, Mumbai,Chembur,Shake,3.7,3.8,16,330,138.80851063829786,141
+Shobhaa Only Veg, Mumbai,Parel,Beverages,4.0,4.2,487,0,254.6455223880597,268
+Slyce Pizza, Mumbai,Lower Parel,Fast Food,3.822264031240087,3.9,0,0,587.2586486486487,148
+Smokin' Joe's, Mumbai,Wadala,Sandwich,3.1,3.6,131,0,333.6545454545454,110
+Speak Burgers by Vicky Ratnani, Mumbai,Pali Hill,Fast Food,3.822264031240087,4.2,0,0,438.75409836065575,61
+Starboy Pizza & Shakes, Mumbai,Worli,Beverages,3.822264031240087,3.5,0,0,181.1875,32
+Subway, Mumbai,Matunga East,Beverages,2.7,4.1,449,0,245.1002430133657,823
+The Belgian Waffle Co., Mumbai,Matunga East,Beverages,4.1,4.0,407,0,199.6914364640884,181
+The Fatty Bao, Mumbai,Linking Road,Chinese,4.4,4.1,0,0,555.7209302325581,172
+The Good Bowl, Mumbai,Wadala,Italian,3.822264031240087,3.9,0,912,234.51282051282053,78
+The Matka Biryani, Mumbai,Lower Parel,Lucknowi,3.822264031240087,3.9,0,0,384.2093023255814,215
+The Momo Factory, Mumbai,Dadar Shivaji Park,Fast Food,2.8,3.7,97,0,263.8439086294416,394
+Theobroma, Mumbai,Matunga East,Beverages,3.8,4.1,177,0,388.8848920863309,278
+Tossin Pizza, Mumbai,Worli,Beverages,4.0,4.3,25,322,377.5113636363636,176
+Winners Pizza - Fresh Dough, Mumbai,Sion,Beverages,3.822264031240087,3.2,0,452,349.2142857142857,140
+Wowfillss, Mumbai,Byculla,Beverages,3.822264031240087,4.0,0,944,130.3153153153153,111
+Alkakori, New Delhi,Geeta Colony,Rolls,3.822264031240087,3.9,0,373,357.1857142857143,70
+Anju Sweets, New Delhi,Inderlok,Desserts,4.3,3.8,711,0,185.22252747252747,364
+Apni Rasoi Int, New Delhi,Pandav Nagar,Fast Food,3.6,3.8,356,0,187.81333333333333,150
+Baap Of Rolls, New Delhi,Laxmi Nagar,Rolls,3.2,4.1,5,82,186.8095238095238,105
+Big Smokin Burgers, New Delhi,Delhi University-GTB Nagar,Beverages,3.9,3.9,73,591,219.0952380952381,126
+Burger Xpress, New Delhi,Mukherjee Nagar,Shake,3.7,3.9,2,0,150.7,170
+Chili's Grill & Bar, New Delhi,Connaught Place,Beverages,4.5,4.1,0,0,408.7864077669903,103
+Delhi Darbar Dhaba, New Delhi,Gole Market,Mughlai,3.8,3.7,135,0,233.1985018726592,267
+Diggin, New Delhi,Connaught Place,Beverages,4.1,4.2,457,0,394.81366459627327,161
+Farzi Cafe, New Delhi,Cyber Hub,Desserts,4.4,4.1,0,141,487.8301886792453,53
+Good Flippin' Burgers, New Delhi,Greater Kailash 1 (GK1),Fast Food,3.822264031240087,4.4,0,0,254.7826086956522,69
+Hashtag Foods, New Delhi,Kamla Nagar,Beverages,3.9,3.9,3,73,263.2151162790698,172
+Hira Sweets, New Delhi,Laxmi Nagar,Mithai,3.822264031240087,4.0,0,0,225.7517098445596,386
+ICP Italian Crust Pizza, New Delhi,Inderlok,Fast Food,3.822264031240087,3.5,0,58,223.41071428571428,56
+If Pizza, New Delhi,Pandav Nagar,Fast Food,4.2,4.2,122,0,183.1282051282052,117
+Kings Kulfi, New Delhi,Rajinder Nagar,Shake,4.5,4.4,227,0,106.008,125
+Natural Ice Cream, New Delhi,Connaught Place,Beverages,4.8,4.5,0,0,137.70409523809525,105
+Nazeer Foods, New Delhi,Lajpat Nagar 2,Rolls,3.4,3.7,24,456,232.614,85
+Oven Day Pizza, New Delhi,West Patel Nagar,Shake,3.7,3.5,14,0,141.78378378378378,111
+Paparizza - Woodfired Pizzas, New Delhi,Delhi University-GTB Nagar,Beverages,4.3,3.8,0,0,358.25136612021856,183
+Pizza Studio, New Delhi,Laxmi Nagar,Fast Food,4.0,3.9,685,0,231.57875621890548,201
+Prasuma Momo Kitchen, New Delhi,Karol Bagh,Chinese,3.822264031240087,4.3,0,132,227.68054945054945,91
+Tite Da Dhaba, New Delhi,Rajouri Garden,North Indian,4.0,4.2,187,0,99.11818181818182,110
+Wat-a-Burger! - India ka Burger, New Delhi,Connaught Place,Beverages,3.4,4.0,289,0,286.89969696969695,330
+Aroma's Hyderabad House, Pune,Erandwane,Beverages,4.0,4.2,528,0,321.5416666666667,216
+Bedi's Naan House, Pune,Dhankawadi,Biryani,3.7,3.6,281,0,154.1978021978022,91
+Best Belgian Waffle, Pune,Erandwane,Beverages,3.2,4.2,173,0,213.0,95
+Big Bowl, Pune,Kumar Pacific Mall,Momos,3.822264031240087,3.8,0,305,241.6985294117647,136
+Big Daddy's, Pune,Salunkhe Vihar Road,Beverages,3.6,3.9,289,0,288.609756097561,123
+Biggies Burger, Pune,FC Road,Desserts,4.0,4.2,102,487,202.5245901639344,122
+Bikkgane Biryani, Pune,Kothrud,Mughlai,3.822264031240087,3.8,0,0,335.1333333333333,150
+Blue Nile, Pune,Camp Area,Beverages,3.6,4.1,0,0,256.699716713881,353
+Burger - Since 1989, Pune,Koregaon Park,Fast Food,4.0,4.3,0,0,91.78571428571428,28
+Burger King, Pune,The Pavillion,Beverages,3.4,3.8,261,0,254.63289940828403,1352
+Burgerino, Pune,Camp Area,Burger,3.822264031240087,3.5,0,234,179.01492537313433,67
+Chaayos Chai+Snacks=Relax, Pune,Camp Area,Beverages,3.822264031240087,3.8,0,247,248.26994252873564,174
+Chill Out, Pune,Bibvewadi,Beverages,3.7,4.3,32,0,112.5242718446602,103
+Choice Only Veg, Pune,Fatima Nagar,Chinese,4.1,4.2,148,0,153.53271028037383,214
+Copper Chocs, Pune,MG Road,Desserts,3.4,4.1,34,148,461.864,10
+Cream Craver, Pune,Camp Area,Beverages,4.1,4.2,0,0,205.9540425531915,282
+Domino's Pizza, Pune,Rasta Peth,Desserts,2.5,4.0,14,0,305.0587038327526,1435
+Fried Chicken Destination, Pune,Kothrud,Fast Food,3.8,4.1,31,0,331.03076923076924,65
+Garden Vada Pav Centre, Pune,Camp Area,Beverages,3.6,4.3,18,0,159.375,16
+George Restaurant, Pune,Camp Area,Beverages,3.9,4.0,0,0,311.8627450980392,204
+Hyderabadi Laziz, Pune,Karve Nagar,Hyderabadi,3.8,3.5,74,0,337.81538461538463,65
+Imperial Bakery - Since 1955, Pune,East Street,Bakery,3.822264031240087,3.9631842584799433,0,3,51.3472,25
+Jai Bhavani Snacks Center, Pune,Katraj,Beverages,3.5,4.3,5,0,38.75,16
+KFC, Pune,R Deccan Mall,Beverages,3.7,3.8,917,0,349.67315579227693,751
+KGN Xprs, Pune,Aundh,Sichuan,3.822264031240087,3.9,0,940,238.5225225225225,111
+Kannu Ki Chai, Pune,FC Road,Coffee,3.5,4.2,11,541,149.1294827586207,116
+Karachi Sweet Mart, Pune,Camp Area,Fast Food,3.822264031240087,3.9,0,730,362.4271844660194,206
+Keventers - Milkshakes & Desserts, Pune,The Pavillion,Desserts,3.3,4.3,2,760,224.39866492146595,382
+King Of Burger, Pune,Sinhgad Road,Beverages,3.822264031240087,3.7,0,0,155.53947368421052,76
+Kwality Walls Frozen Dessert and Ice Cream Shop, Pune,Erandwane,Desserts,3.822264031240087,4.4,0,377,163.5984251968504,127
+MH 12 Pav Bhaji, Pune,Rasta Peth,Shake,3.9,4.1,262,0,170.14396825396824,63
+MOJO Pizza - 2X Toppings, Pune,Bund Garden Road,Beverages,3.822264031240087,4.3,0,0,341.6040268456376,298
+Marrakesh, Pune,FC Road,Beverages,3.8,3.9,0,0,236.8170731707317,164
+McDonald's, Pune,Shaniwar Peth,Beverages,3.6,4.2,2,0,264.2809762020398,2059
+Monginis, Pune,Sadashiv Peth,Bakery,3.822264031240087,4.4,0,478,510.0,19
+Mother's Kitchen, Pune,Kothrud,Biryani,4.1,3.9,93,0,273.3382352941176,272
+NH1 Bowls - Highway To North, Pune,Dhole Patil Road,Beverages,3.822264031240087,4.3,0,727,231.67961165048544,103
+NOTO - Healthy Ice Cream, Pune,Kothrud,Desserts,3.822264031240087,4.4,0,203,206.2377049180328,61
+Natural Ice Cream, Pune,JM Road,Shake,4.2,4.5,368,0,137.70409523809525,105
+New Bombay Sandwich Burger & Pizza, Pune,Vishrantwadi,Fast Food,3.822264031240087,3.6,0,479,101.09722222222224,72
+Ovenstory Pizza, Pune,Shaniwar Peth,Fast Food,3.822264031240087,4.4,0,0,385.23701704545454,352
+Piazza Pizza By Little Italy, Pune,Camp Area,Fast Food,3.7,3.4,26,163,324.8144329896907,97
+Pizza Bites, Pune,Wadgaon Sheri,Beverages,3.7,4.3,15,231,251.6715286624204,157
+Pizza Hut, Pune,Shukrawar Peth,Beverages,3.9,3.9,91,838,287.27036211699163,1077
+Pokket Cafe, Pune,Karve Nagar,Desserts,3.4,3.5,38,139,151.50259067357513,193
+RK Pure Veg, Pune,Vishrantwadi,Sichuan,3.7,3.8,208,0,195.0520231213873,346
+Reddy's Fast Food, Pune,Yerawada,Sichuan,3.5,3.9,82,0,199.8828125,128
+Roll Point, Pune,Dhankawadi,Chinese,4.0,4.1,111,0,139.1549295774648,142
+Rolls Mania, Pune,Sadashiv Peth,Beverages,4.1,4.2,87,0,200.80438902743143,401
+Roopali Veg, Pune,Bibvewadi,Beverages,3.6,4.2,20,0,178.46052631578948,380
+Sandwich Express, Pune,Koregaon Park,Beverages,3.822264031240087,4.2,0,0,128.8984375,128
+Saparito Pizza, Pune,Sadashiv Peth,Beverages,3.822264031240087,4.2,0,384,196.12698412698413,63
+Subway, Pune,FC Road,Beverages,3.1,4.1,310,0,245.1002430133657,823
+Sudama Bhel, Pune,Yerawada,Fast Food,3.822264031240087,3.9,0,174,78.75,36
+Sukanta, Pune,Deccan Gymkhana,Beverages,4.2,4.1,0,0,352.3825,4
+Supreme Sandwich Corner, Pune,Budhwar Peth,Beverages,2.9,4.2,10,0,180.7843137254902,51
+The Chinese Wok, Pune,Kondhwa,Sichuan,4.0,4.0,99,0,288.2241379310345,406
+The Pizza Box, Pune,Senapati Bapat Road,Beverages,4.1,3.8,128,515,285.83838383838383,99
+Third Wave Coffee, Pune,Karve Nagar,Pizza,4.0,4.3,36,664,265.429375,144
+Wendy's, Pune,Law College Road,Fast Food,3.822264031240087,3.8,0,520,276.5336322869955,223
+Ariena Boutique Hotel, Raipur,Purena,Pizza,3.9,4.2,13,523,354.4755244755245,286
+Ashifa Laziz Biryani, Raipur,Kota,Pizza,3.4,4.1,5,909,99.0,37
+Axis Juice, Raipur,Devendra Nagar,Pizza,3.822264031240087,4.2,0,0,184.572351543943,421
+Behrouz Biryani, Raipur,Govind Nagar,Pizza,3.822264031240087,4.4,0,0,609.2972972972973,333
+Binge Box, Raipur,Jawahar Nagar,Pizza,3.822264031240087,3.9,0,545,204.2525252525253,99
+Bunk Class, Raipur,Amanaka,Pizza,4.0,3.7,211,0,135.5625,256
+Burger Singh - Big Punjabi Burgers, Raipur,Tatibandh,Pizza,3.822264031240087,3.9631842584799433,0,0,217.35655913978496,279
+CA's Kitchen, Raipur,Shankar Nagar,Pizza,3.822264031240087,3.2,0,852,142.289453125,128
+Cafe 36, Raipur,Samta Colony,Pizza,3.1,4.1,10,148,133.4431137724551,167
+Chai Govindam, Raipur,Tikrapara,Pizza,3.8,4.1,18,0,75.69672131147541,61
+Chapter One, Raipur,Shankar Nagar,Pizza,4.3,3.8,20,228,182.64864864864865,111
+Chef's Kitchen, Raipur,Civil Lines,Pizza,4.0,3.9,413,0,236.112,250
+Chicago Pizza, Raipur,Mowa,Pizza,3.1,3.6,29,844,268.2758620689655,87
+Confusion Box, Raipur,Devendra Nagar,Pizza,3.822264031240087,3.7,0,0,228.7289719626168,107
+Creams N Caffeine, Raipur,Samta Colony,Pizza,4.3,3.5,217,0,181.55980861244012,209
+Dakshin Swaad, Raipur,Moudhapara,Pizza,3.7,4.2,100,0,98.51063829787236,47
+Galaxy Food Centre, Raipur,Samta Colony,Pizza,3.822264031240087,3.6,0,242,132.10526315789474,95
+Goli Rolls And Vada Pav, Raipur,Samta Colony,Pizza,3.822264031240087,4.3,0,162,110.85106382978724,94
+Hot 100, Raipur,Devendra Nagar,Pizza,4.2,4.3,252,0,203.18250950570345,263
+Hot Chemistry- Indian Heritage Hotel, Raipur,Moudhapara,Pizza,4.0,4.3,26,645,188.75384615384613,65
+Hotel Hyderabadi, Raipur,Moudhapara,Pizza,4.2,3.8,452,0,159.6,215
+Hotel Hyderabadi, Raipur,Mahaveer Nagar,Pizza,3.822264031240087,3.8,0,469,159.6,215
+Iconic Cafe, Raipur,Purena,Pizza,3.822264031240087,4.0,0,63,98.46938775510203,98
+Jalaram Sweets And Namkeen, Raipur,Tikrapara,Pizza,3.822264031240087,4.1,0,346,109.53846153846152,91
+Just Chaska, Raipur,Mowa,Pizza,3.5,3.6,10,699,152.88888888888889,45
+KGN Chicken Corner & Biryani Center, Raipur,Mowa,Pizza,3.1,3.7,44,0,98.3695652173913,46
+Kikki's Cafe, Raipur,Samta Colony,Pizza,3.9,4.1,177,0,214.01408450704224,142
+Manju Mamta Restaurant, Raipur,Jawahar Nagar,Pizza,4.2,4.2,0,0,162.69230769230768,156
+Mario's, Raipur,Moudhapara,Pizza,3.822264031240087,4.0,0,0,186.54954337899545,219
+Momo Magic Cafe, Raipur,Civil Lines,Pizza,3.822264031240087,4.3,0,0,203.30921052631572,152
+Moti Mahal, Raipur,Jawahar Nagar,Pizza,4.0,3.6,70,0,208.17857142857144,392
+Pavdos Cafe, Raipur,Civil Lines,Pizza,3.8,3.7,44,0,146.28514056224898,249
+Pizza @90, Raipur,Samta Colony,Pizza,3.822264031240087,3.8,0,399,76.77966101694915,59
+Pizza Olive, Raipur,Devendra Nagar,Pizza,3.822264031240087,4.2,0,225,165.09736434108527,129
+Pizza@89, Raipur,Samta Colony,Pizza,3.822264031240087,3.6,0,0,173.8181818181818,44
+Pohewala, Raipur,Samta Colony,Pizza,3.822264031240087,4.3,3,176,101.1153846153846,52
+Pure Momos, Raipur,Civil Lines,Pizza,3.822264031240087,3.4,0,114,175.9787234042553,282
+Rolls Mania, Raipur,Samta Colony,Pizza,3.822264031240087,4.3,0,0,200.80438902743143,401
+Sam's Pizza, Raipur,Mahaveer Nagar,Pizza,4.1,4.0,152,0,257.98148148148147,108
+Samriddhi Thali, Raipur,Tatibandh,Pizza,3.822264031240087,4.0,0,452,131.9056603773585,106
+Sandwich Jn., Raipur,Devendra Nagar,Pizza,3.8,4.3,70,881,148.8826815642458,179
+Sandwich Jn., Raipur,Samta Colony,Pizza,3.9,4.1,101,0,148.8826815642458,179
+Sandwich Junction, Raipur,Mowa,Pizza,3.822264031240087,4.0,0,184,120.95238095238096,42
+Sikkim Jojo, Raipur,Civil Lines,Pizza,3.822264031240087,3.5,0,0,85.38461538461539,39
+Sip & Bite, Raipur,Civil Lines,Pizza,4.0,3.7,226,0,182.28703703703704,324
+Starbucks Coffee, Raipur,Shankar Nagar,Pizza,3.2,4.2,9,605,278.26964285714286,112
+Tandoor -3 Family Dhaba, Raipur,Mahaveer Nagar,Pizza,3.2,4.0,28,0,177.84574468085106,188
+The Breakfast Cafe, Raipur,Civil Lines,Pizza,3.822264031240087,3.6,1,682,180.23809523809524,168
+Uno Dos Tres, Raipur,Civil Lines,Pizza,3.3,3.6,18,351,159.98214285714286,280
+Urban Biryani, Raipur,Tatibandh,Pizza,4.0,4.0,23,0,208.2056277056277,462
+Ustaad's Kitchen, Raipur,Devendra Nagar,Pizza,4.2,4.2,142,0,265.09615384615387,52
+Veggiies, Raipur,Civil Lines,Pizza,4.1,3.7,154,0,224.32422222222223,90
+Wafflez, Raipur,Samta Colony,Pizza,4.1,4.1,171,0,140.1764705882353,51
+Xero Degrees, Raipur,Shankar Nagar,Pizza,3.822264031240087,4.0,0,696,282.16062176165804,193
+Dum Safar Biryani, Ulsoor,Lido Mall,Desserts,3.822264031240087,4.0,0,7,663.3594470046083,217

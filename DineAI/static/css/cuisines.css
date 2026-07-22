@@ -1,0 +1,71 @@
+/* ==========================
+      Cuisines Section
+========================== */
+
+.cuisines{
+
+    padding:120px 0;
+
+}
+
+.cuisine-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:30px;
+
+}
+
+.cuisine-card{
+
+    background:var(--glass);
+
+    border:1px solid var(--glass-border);
+
+    border-radius:24px;
+
+    overflow:hidden;
+
+    text-align:center;
+
+    transition:.4s;
+
+    backdrop-filter:blur(18px);
+
+}
+
+.cuisine-card:hover{
+
+    transform:translateY(-10px);
+
+    border-color:var(--gold);
+
+}
+
+.cuisine-card img{
+
+    width:100%;
+
+    height:220px;
+
+    object-fit:cover;
+
+    transition:.5s;
+
+}
+
+.cuisine-card:hover img{
+
+    transform:scale(1.08);
+
+}
+
+.cuisine-card h3{
+
+    padding:22px;
+
+    font-size:24px;
+
+}

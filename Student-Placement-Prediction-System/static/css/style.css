@@ -1,0 +1,622 @@
+/* =========================
+   GOOGLE FONT
+========================= */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    background:linear-gradient(-45deg,#0f172a,#1e3a8a,#2563eb,#0ea5e9);
+    background-size:400% 400%;
+    animation:bgAnimation 12s ease infinite;
+    color:white;
+    min-height:100vh;
+
+}
+
+/* Animated Background */
+
+@keyframes bgAnimation{
+
+0%{background-position:0% 50%;}
+
+50%{background-position:100% 50%;}
+
+100%{background-position:0% 50%;}
+
+}
+
+/* =========================
+NAVBAR
+========================= */
+
+.navbar{
+
+backdrop-filter:blur(18px);
+
+background:rgba(255,255,255,.08);
+
+border-bottom:1px solid rgba(255,255,255,.15);
+
+}
+
+.navbar-brand{
+
+font-weight:700;
+
+font-size:30px;
+
+}
+
+.nav-link{
+
+color:white!important;
+
+font-size:17px;
+
+transition:.3s;
+
+}
+
+.nav-link:hover{
+
+color:#38bdf8!important;
+
+}
+
+/* =========================
+HERO
+========================= */
+
+.hero{
+
+padding:80px 0;
+
+}
+
+.hero h1{
+
+font-size:58px;
+
+font-weight:700;
+
+line-height:1.2;
+
+}
+
+.hero p{
+
+font-size:20px;
+
+opacity:.9;
+
+}
+
+.hero img{
+
+animation:float 4s ease-in-out infinite;
+
+}
+
+@keyframes float{
+
+0%{transform:translateY(0px);}
+
+50%{transform:translateY(-20px);}
+
+100%{transform:translateY(0px);}
+
+}
+
+/* =========================
+BUTTONS
+========================= */
+
+.btn-primary{
+
+background:#2563eb;
+
+border:none;
+
+padding:14px 28px;
+
+border-radius:40px;
+
+font-weight:600;
+
+transition:.4s;
+
+}
+
+.btn-primary:hover{
+
+background:#1d4ed8;
+
+transform:translateY(-3px);
+
+box-shadow:0 10px 30px rgba(37,99,235,.45);
+
+}
+
+.btn-outline-light{
+
+border-radius:40px;
+
+padding:14px 28px;
+
+}
+
+/* =========================
+CARD
+========================= */
+
+.card{
+
+background:rgba(255,255,255,.12);
+
+backdrop-filter:blur(25px);
+
+border:none;
+
+border-radius:25px;
+
+box-shadow:0 20px 60px rgba(0,0,0,.35);
+
+color:white;
+
+}
+
+/* =========================
+FORM
+========================= */
+
+label{
+
+font-weight:500;
+
+margin-top:15px;
+
+}
+
+.form-control,
+
+.form-select{
+
+border-radius:12px;
+
+padding:12px;
+
+border:none;
+
+margin-top:6px;
+
+}
+
+.form-control:focus,
+
+.form-select:focus{
+
+box-shadow:0 0 12px rgba(59,130,246,.5);
+
+}
+
+/* =========================
+RESULT
+========================= */
+
+.result{
+
+background:#22c55e;
+
+padding:18px;
+
+border-radius:15px;
+
+font-size:22px;
+
+font-weight:700;
+
+text-align:center;
+
+color:white;
+
+animation:popup .6s;
+
+}
+
+@keyframes popup{
+
+0%{
+
+transform:scale(.5);
+
+opacity:0;
+
+}
+
+100%{
+
+transform:scale(1);
+
+opacity:1;
+
+}
+
+}
+
+/* =========================
+ABOUT
+========================= */
+
+#about{
+
+padding:80px 0;
+
+}
+
+#about h2{
+
+font-size:42px;
+
+font-weight:700;
+
+}
+
+#about p{
+
+font-size:18px;
+
+opacity:.9;
+
+max-width:850px;
+
+margin:auto;
+
+}
+
+/* =========================
+FOOTER
+========================= */
+
+footer{
+
+margin-top:60px;
+
+background:rgba(255,255,255,.08);
+
+backdrop-filter:blur(15px);
+
+padding:20px;
+
+font-size:15px;
+
+}
+
+/* =========================
+RESPONSIVE
+========================= */
+
+@media(max-width:992px){
+
+.hero{
+
+text-align:center;
+
+}
+
+.hero h1{
+
+font-size:42px;
+
+}
+
+.hero img{
+
+margin-top:40px;
+
+max-width:280px;
+
+}
+
+}
+
+@media(max-width:768px){
+
+.hero h1{
+
+font-size:34px;
+
+}
+
+.hero p{
+
+font-size:17px;
+
+}
+
+.card{
+
+padding:25px;
+
+}
+
+}
+
+/* =========================
+STATISTICS
+========================= */
+
+.stats{
+
+padding:40px 0;
+
+}
+
+.stat-card{
+
+background:rgba(255,255,255,.12);
+
+backdrop-filter:blur(18px);
+
+border-radius:20px;
+
+padding:35px;
+
+text-align:center;
+
+transition:.4s;
+
+box-shadow:0 15px 40px rgba(0,0,0,.25);
+
+}
+
+.stat-card:hover{
+
+transform:translateY(-12px);
+
+box-shadow:0 25px 60px rgba(0,0,0,.35);
+
+}
+
+.stat-card i{
+
+font-size:55px;
+
+color:#38bdf8;
+
+margin-bottom:15px;
+
+}
+
+.stat-card h2{
+
+font-size:38px;
+
+font-weight:700;
+
+margin-bottom:10px;
+
+}
+
+.stat-card p{
+
+font-size:18px;
+
+opacity:.9;
+
+}
+
+/* =========================
+Loading Button
+========================= */
+
+#loading{
+
+display:none;
+
+font-weight:600;
+
+}
+
+.spinner-border{
+
+vertical-align:middle;
+
+}
+
+/* ===========================
+RESULT CARD
+=========================== */
+
+.result-card{
+
+background:rgba(255,255,255,.15);
+
+backdrop-filter:blur(20px);
+
+padding:35px;
+
+border-radius:20px;
+
+text-align:center;
+
+box-shadow:0 20px 40px rgba(0,0,0,.25);
+
+animation:popup .6s;
+
+}
+
+.result-card h1{
+
+font-size:45px;
+
+font-weight:700;
+
+margin-bottom:15px;
+
+}
+
+.result-card h4{
+
+color:#38bdf8;
+
+margin-bottom:20px;
+
+}
+
+.result-card ul{
+
+list-style:none;
+
+padding:0;
+
+}
+
+.result-card li{
+
+margin:12px 0;
+
+font-size:18px;
+
+}
+
+/* ==========================
+Glow Effect
+========================== */
+
+.stat-card{
+
+position:relative;
+
+overflow:hidden;
+
+}
+
+.stat-card::before{
+
+content:"";
+
+position:absolute;
+
+top:-50%;
+
+left:-50%;
+
+width:200%;
+
+height:200%;
+
+background:linear-gradient(
+
+45deg,
+
+transparent,
+
+rgba(255,255,255,.18),
+
+transparent
+
+);
+
+transform:rotate(25deg);
+
+transition:.8s;
+
+}
+
+.stat-card:hover::before{
+
+left:120%;
+
+}
+
+.card{
+
+transition:.4s;
+
+}
+
+.card:hover{
+
+transform:translateY(-8px);
+
+}
+
+.circle{
+
+position:fixed;
+
+border-radius:50%;
+
+filter:blur(80px);
+
+opacity:.25;
+
+z-index:-1;
+
+animation:move 10s infinite alternate;
+
+}
+
+.one{
+
+width:250px;
+
+height:250px;
+
+background:#38bdf8;
+
+top:5%;
+
+left:5%;
+
+}
+
+.two{
+
+width:300px;
+
+height:300px;
+
+background:#2563eb;
+
+right:8%;
+
+top:40%;
+
+}
+
+.three{
+
+width:220px;
+
+height:220px;
+
+background:#60a5fa;
+
+bottom:5%;
+
+left:35%;
+
+}
+
+@keyframes move{
+
+from{
+transform:translateY(0px);
+}
+
+to{
+transform:translateY(-60px);
+}
+
+}
