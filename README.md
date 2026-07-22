@@ -61,6 +61,3 @@ https://rag-chatbot-cfctdnme7bgld6btdaoqsx.streamlit.app/
 
 ---
 
-## 👨‍💻 Author
-
-**Prathmesh Chedge**
