@@ -172,15 +172,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 👨‍💻 Author
-
-**Prathmesh Chedge**
-
-GitHub:
-https://github.com/Chedgeprathm
 
 ---
 
-## ⭐ Support
 
-If you like this project, consider giving this repository a ⭐ on GitHub.
