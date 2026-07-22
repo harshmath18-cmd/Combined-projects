@@ -147,15 +147,3 @@ The application is deployed on **Render Cloud Platform** and is accessible via t
 
 ---
 
-## 👨‍💻 Author
-**Prathmesh Chedge**
-
----
-
-## ⭐ Support
-If you found this project useful, consider giving it a ⭐ Star on GitHub.
-
----
-
-## 📬 Contact
-For feedback or suggestions, connect via GitHub.
