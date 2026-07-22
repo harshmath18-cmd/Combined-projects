@@ -117,8 +117,3 @@ Add screenshots here after deployment.
 
 ---
 
-## 👨‍💻 Author
-
-**Prathmesh Chedge**
-
-GitHub:https://github.com/Chedgeprathm
