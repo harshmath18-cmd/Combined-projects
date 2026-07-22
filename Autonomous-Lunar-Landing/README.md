@@ -186,13 +186,6 @@ python training/plot_rewards.py
 
 ## 👨‍💻 Author
 
-**Prathmesh Chedge**
-
-GitHub:
-https://github.com/Chedgeprathm
+Harsh Mahesh Math
 
 ---
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub!
